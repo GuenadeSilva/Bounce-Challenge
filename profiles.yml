@@ -1,0 +1,12 @@
+bounce_ae_challenge:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: postgres
+      password: postgres
+      port: 5432
+      dbname: postgres
+      schema: public
+      threads: 1

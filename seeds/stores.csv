@@ -1,0 +1,701 @@
+name,latitude,longitude,country,city,active,id
+Stiffel Textor e.G.,51.168,7.973,DE,Stuttgart,true,0c43d657-5532-4864-95b0-3c0e256489ac
+Zirme,51.168,7.973,DE,Munich,false,2a54a776-9fb0-44e8-bf00-35f1366ff800
+Matthäi,51.168,7.973,DE,Hamburg,true,68649eb3-ca96-4134-86a9-d17e9d94b7ea
+Gute,51.168,7.973,DE,Essen,true,e33c3477-d218-4394-ab4d-b9ca0520be3c
+Dörr,51.47805,6.8625,DE,Munich,true,fb6da64f-d2d2-47f8-8179-1badb6a080ae
+Gehringer Weimer AG & Co. OHG,51.47805,6.8625,DE,Leipzig,true,e7f5be78-109c-44ff-947c-9e72e0c3c05f
+Gute,51.47805,6.8625,DE,Frankfurt,true,b95eda5c-8eb5-4372-b79a-0ca991a05241
+Hörle GmbH & Co. KG,50.82709,6.9747,DE,Dusseldorf,true,30bdc2b4-e311-4d2d-9e0e-2fe7c80714c2
+Matthäi,50.64336,7.2278,DE,Essen,true,18245517-9903-4cf6-a8e6-67d96f9c0fc7
+Eberth Hecker AG & Co. KGaA,50.64336,7.2278,DE,Munich,true,805ee3f7-4408-49ad-b245-3cc644958d27
+Dörr,52.86147,9.5926,DE,Dortmund,true,182094ab-767f-4d2f-bd94-25cbf5db9fe1
+Dörr,52.86147,9.5926,DE,Hamburg,true,714ab4c4-be43-4b2d-98fe-e537a2ccde7a
+Hörle GmbH & Co. KG,52.86147,9.5926,DE,Munich,true,de38bcf7-e838-4eb7-908e-e02b8570acd0
+Dörr,52.47774,10.5511,DE,Essen,true,d191bd4c-2c98-4e7c-b9bd-3da58a6cc849
+Gehringer Weimer AG & Co. OHG,52.47774,10.5511,DE,Stuttgart,true,b92e0387-1fe5-4a7f-b73a-4ca6c3bbd70d
+Dörr Koch II Stiftung & Co. KG,52.47774,10.5511,DE,Leipzig,true,202195a9-7f7c-4a11-b1c1-a08d13796974
+Holzapfel KGaA,51.21667,6.26667,DE,Leipzig,false,94b158aa-4c58-4c75-a1b9-b6c658aba598
+Dörr,51.21667,6.26667,DE,Stuttgart,true,b0475e9f-ff6b-462a-ba95-5b1dc13d8c73
+Holzapfel KGaA,51.21667,6.26667,DE,Dusseldorf,true,533ba0c5-b95a-48f2-b127-6327f47386ad
+Stiffel Textor e.G.,51.21667,6.26667,DE,Hamburg,false,01b449ad-bb61-43d4-ba00-0769a6e43aa0
+Holzapfel KGaA,51.19139,6.51352,DE,Essen,true,b0fa6e39-e3f1-4852-8a19-3abdf963f132
+Dörr Koch II Stiftung & Co. KG,51.19139,6.51352,DE,Hamburg,true,897ac06a-9473-401a-b1c6-7887c4e4ad26
+Eberth Hecker AG & Co. KGaA,51.19139,6.51352,DE,Frankfurt,true,f32b738d-332b-4b89-8dfa-bade2a9cf946
+Matthäi,51.19139,6.51352,DE,Berlin,true,035b3991-7f69-4989-ac56-37eb0a4776e1
+Hörle GmbH & Co. KG,49.5099,6.74549,DE,Hamburg,true,1d2bcd40-cc6c-44e4-afd6-e621cb85ee53
+Dörr Koch II Stiftung & Co. KG,49.5099,6.74549,DE,Dortmund,true,06e7d255-463b-4d27-a6b2-62e7c68dfe91
+Gute,52.21099,7.02238,DE,Dusseldorf,true,64d0d9d8-1920-4397-bc8e-b811a309c250
+Eberth Hecker AG & Co. KGaA,51.08468,7.11393,DE,Hamburg,true,126e632e-e6a3-4c71-9507-bf32c3537af6
+Holzapfel KGaA,50.80019,7.20769,DE,Munich,true,47ca485e-d2a2-426c-a3ff-21a0a2a48ccb
+Hörle GmbH & Co. KG,51.20219,7.36027,DE,Dortmund,true,88231f1e-7f9d-4eb1-a191-677a8596dd7c
+Zirme,51.20219,7.36027,DE,Berlin,true,3f687cd8-24a9-43d7-ba4e-3a1828cfb2ca
+Hörle GmbH & Co. KG,51.20219,7.36027,DE,Leipzig,true,8c30b9bf-5ea6-4cdf-a407-d8e83f0d0ee2
+Zirme,51.20219,7.36027,DE,Frankfurt,true,fdd0ad87-dfef-47ba-b77b-9b1e281dde90
+Matthäi,51.88333,8.51667,DE,Stuttgart,true,54180c50-d745-4669-86be-6e39a3597736
+Gute,49.68369,8.61839,DE,Cologne,true,8cf982c6-8655-424a-a38a-4e566e541466
+Zirme,52.2,8.63333,DE,Cologne,false,b25e980e-88a4-4679-9d18-981fe2940ac6
+Gute,52.2,8.63333,DE,Munich,true,0805673a-556b-409f-b358-8f6a97db0712
+Holzapfel KGaA,52.2,8.63333,DE,Stuttgart,true,7d8cee62-ca46-47ab-95f2-eda590a92381
+Eberth Hecker AG & Co. KGaA,48.07667,8.64409,DE,Stuttgart,true,2db0dd43-2036-4600-8c9f-ffcc02aa94e9
+Zirme,48.07667,8.64409,DE,Essen,true,206ddb7a-0e5c-4e2d-af70-b32dc84fa946
+Zirme,49.03685,8.70745,DE,Dortmund,true,9d3e3514-6a43-46f3-a270-4bd8a447a9d6
+Dörr Koch II Stiftung & Co. KG,50.80904,8.77069,DE,Dusseldorf,true,93dc65ef-4002-489f-a0a6-64510276c6c4
+Holzapfel KGaA,50.23805,8.86704,DE,Cologne,true,65d3feb5-6105-4d3b-b920-917e5ea2afe5
+Zirme,50.23805,8.86704,DE,Dusseldorf,false,6652afb1-9bc3-48cb-8e60-93bf9d83c134
+Gute,49.13645,8.91229,DE,Dortmund,true,94b9f0aa-3bf2-46b9-b2dd-9f5daa96475d
+Stiffel Textor e.G.,48.35149,8.96317,DE,Leipzig,true,a1d0d329-32dd-4611-ae18-97624038c27a
+Hörle GmbH & Co. KG,48.35149,8.96317,DE,Frankfurt,true,84a45bec-ed8e-4cf3-bb78-ebc80f55e7e5
+Matthäi,48.35149,8.96317,DE,Dusseldorf,true,f6808093-5a01-43cd-b56f-d58d93389d3a
+Matthäi,48.21644,9.02596,DE,Munich,true,5b046b70-e413-441d-821f-041533cef56b
+Eberth Hecker AG & Co. KGaA,48.21644,9.02596,DE,Essen,true,ead894ec-3cb3-4fbc-bf9d-081744239f3c
+Gute,48.21644,9.02596,DE,Stuttgart,true,87bdc20a-69ce-4d65-891b-708bc1217f1e
+Dörr Koch II Stiftung & Co. KG,49.97704,9.15214,DE,Munich,true,29b4a6f7-ae2c-41cc-9763-dbac53e4ead8
+Gehringer Weimer AG & Co. OHG,49.97704,9.15214,DE,Frankfurt,true,5a977b59-89a3-47e9-8174-704aba7b076b
+Holzapfel KGaA,49.97704,9.15214,DE,Berlin,true,2c8cc843-f530-46f3-a268-e3e86b66b0fb
+Gehringer Weimer AG & Co. OHG,48.78232,9.17702,DE,Dusseldorf,true,ac4b7646-bcd4-4a58-a22f-b9f1d374e739
+Stiffel Textor e.G.,48.78232,9.17702,DE,Dusseldorf,true,4c4f1e3a-2458-40d4-afb2-25b4143f7db0
+Gehringer Weimer AG & Co. OHG,48.49144,9.20427,DE,Hamburg,true,9c543a05-28cb-48a9-92b5-b104b590434f
+Stiffel Textor e.G.,48.49144,9.20427,DE,Berlin,true,06928e74-5848-4790-aaf1-9ee6a6ab5233
+Eberth Hecker AG & Co. KGaA,48.49144,9.20427,DE,Leipzig,true,8c2b25e9-540c-4d18-96af-3e2735b7e7c9
+Dörr,48.46458,9.22796,DE,Leipzig,true,ed7698a2-f9e6-46b9-bc98-c08fa56bca6b
+Dörr,48.46458,9.22796,DE,Dusseldorf,true,e7b75f11-b744-4301-a345-a80d7517666b
+Matthäi,48.46458,9.22796,DE,Leipzig,true,799ec847-e3fa-4ad7-b034-ca2885eedd54
+Zirme,48.46458,9.22796,DE,Hamburg,true,4540407f-24ba-4cdc-b107-2026caf047d9
+Dörr,53.59337,9.47629,DE,Berlin,true,0ff03160-9acc-4cd1-94e6-1d32cc80714a
+Gehringer Weimer AG & Co. OHG,48.28259,9.72749,DE,Cologne,true,c1485e49-3c3d-4d80-8c39-4399922a8df0
+Hörle GmbH & Co. KG,53.6052,10.03988,DE,Essen,true,70931351-e724-4556-b2b2-9dea2d25c575
+Holzapfel KGaA,53.6052,10.03988,DE,Dortmund,true,42189e2b-7c90-481c-949d-2bb89c1cd966
+Matthäi,53.6052,10.03988,DE,Cologne,true,635edadf-7463-4675-b4b0-b76ce4bd78fc
+Stiffel Textor e.G.,53.6052,10.03988,DE,Dortmund,true,9a18b887-19d5-45ce-b380-145a37b6530e
+Hörle GmbH & Co. KG,47.98372,10.18527,DE,Berlin,true,fbfad8fb-f18b-47b0-9df2-0315135010b1
+Gute,53.94313,10.30215,DE,Leipzig,false,ed0ff4f0-8fde-4a77-a714-663b2ec26337
+Dörr Koch II Stiftung & Co. KG,53.94313,10.30215,DE,Essen,true,86be51de-38fa-47ab-8839-cf9d2291241c
+Dörr Koch II Stiftung & Co. KG,48.35693,10.98461,DE,Berlin,true,4fa50bfa-5742-4c57-896d-2c8a1ffc5ed6
+Gehringer Weimer AG & Co. OHG,48.73218,11.18709,DE,Berlin,true,9481a121-5f62-4915-b5d4-fc9eff87a037
+Dörr,50.9803,11.32903,DE,Frankfurt,true,51d52c44-2796-4471-b380-096842fb43c6
+Zirme,50.9803,11.32903,DE,Leipzig,true,3e065f37-85b6-4256-a1ae-c7dbb12ae99a
+Matthäi,50.9803,11.32903,DE,Dortmund,true,9566d906-431b-45e6-b90a-e51c57299561
+Hörle GmbH & Co. KG,50.72043,11.34046,DE,Stuttgart,true,bae2d155-f17c-4931-97bb-86c77f9ae80c
+Eberth Hecker AG & Co. KGaA,48.06919,11.37703,DE,Dusseldorf,true,ded59c61-e59d-48a3-a632-e91bccd2b60e
+Eberth Hecker AG & Co. KGaA,48.06919,11.37703,DE,Berlin,true,1e0e9377-9ffe-46a0-b8fc-50dd017a19ab
+Stiffel Textor e.G.,48.06919,11.37703,DE,Frankfurt,true,b859e2d0-0b27-4ce6-9559-728b43a0f4b6
+Matthäi,48.06919,11.37703,DE,Frankfurt,true,e1f62c9b-5942-4a6d-b611-f27ceb69de26
+Dörr Koch II Stiftung & Co. KG,48.52961,12.16179,DE,Frankfurt,false,023e1124-d84d-4ccf-b777-1a04a9324671
+Stiffel Textor e.G.,48.52961,12.16179,DE,Munich,true,54c4dd2e-881b-49c4-a0b7-bc80b0994c7a
+Holzapfel KGaA,48.52961,12.16179,DE,Hamburg,true,cb58e499-b5c9-4d82-9d2b-ac4a8c7dcba2
+Holzapfel KGaA,51.30001,13.10984,DE,Frankfurt,true,13858911-63e3-4827-bcc8-e204abbc51c5
+Dörr,51.30001,13.10984,DE,Cologne,true,7f97c870-45ea-426f-8a3a-b3adf4ba9990
+Gehringer Weimer AG & Co. OHG,51.30001,13.10984,DE,Munich,true,0331f0f0-cd13-472e-8319-e394d57085c6
+Dörr Koch II Stiftung & Co. KG,52.4581,13.28702,DE,Stuttgart,true,f59d457f-cdfc-4cbc-b075-e0636b9cdb94
+Zirme,52.4581,13.28702,DE,Stuttgart,true,f6c503a3-2748-4153-959d-7df31f2a129a
+Gute,52.53048,13.29371,DE,Berlin,true,48471c0f-d50f-40d6-8cdd-7c824630f164
+Gehringer Weimer AG & Co. OHG,52.53048,13.29371,DE,Dortmund,true,1cad0809-794a-4bd1-8d45-362995bbce03
+Hörle GmbH & Co. KG,52.53048,13.29371,DE,Cologne,true,fd317f6e-1c8d-4654-98b0-2620dc1b7462
+Eberth Hecker AG & Co. KGaA,52.53048,13.29371,DE,Cologne,true,da694cf0-84c8-4c93-91aa-df3879d53cef
+Stiffel Textor e.G.,52.61131,13.31783,DE,Essen,true,3b3f8c43-0663-4d1c-b04c-f1779be982c9
+Gehringer Weimer AG & Co. OHG,52.61131,13.31783,DE,Essen,true,d8d6c445-54d4-4197-b70e-06cf76ef019b
+Gute,52.61131,13.31783,DE,Hamburg,true,165a1c39-cb58-4ba9-b78a-9aa45c3846cd
+Stiffel Textor e.G.,52.59319,13.32127,DE,Cologne,true,25047207-f64f-4614-8027-be62987fb750
+Dörr Koch II Stiftung & Co. KG,52.59319,13.32127,DE,Cologne,true,cf3e6927-6d31-4e99-9180-8e1a13e288d0
+Eberth Hecker AG & Co. KGaA,52.59319,13.32127,DE,Dortmund,false,e083054c-0992-45df-bced-540bbe501036
+Soluciones Cañas y asociados S.Coop.,38.47917,-1.325,ES,Madrid,true,0be300da-dd70-4a72-92e8-64999841cf07
+Valeria Guillen Tejera S.Com.,38.47917,-1.325,ES,Madrid,false,aa2bd10d-c315-41f0-8a63-4c277f8ba36e
+Farmaceútica Rosell & Asociados S.L.,38.47917,-1.325,ES,Seville,true,1f106b69-85b2-4e0c-b6ed-750bc15cd3be
+Belen Cobo Corral S.Coop.,38.47917,-1.325,ES,Malaga,true,8cc06b09-97aa-43df-ad9a-d95cfee945bc
+Familia Pavón S.Coop.,38.47917,-1.325,ES,Las Palmas,true,ed37b75f-3165-4e73-8e29-2b1b927c7772
+Valeria Guillen Tejera S.Com.,41.91738,3.1631,ES,Las Palmas,true,12e9a4c1-ae94-4265-923f-29eb1ef69389
+Valeria Guillen Tejera S.Com.,41.91738,3.1631,ES,Zaragoza,false,12f232d3-1647-4e16-86a3-35e1be62e446
+Farmaceútica Rosell & Asociados S.L.,41.91738,3.1631,ES,Bilbao,true,eaa2ddfc-fd14-4eba-8c1e-3dfe67ff1557
+Familia Pavón S.Coop.,41.91738,3.1631,ES,Malaga,true,11b1b0f2-9fc3-4663-9752-9b5f43f472ba
+Belen Cobo Corral S.Coop.,41.91738,3.1631,ES,Madrid,true,bef9bd9f-ae21-4955-943f-59d851ae56b5
+Belen Cobo Corral S.Coop.,41.91738,3.1631,ES,Palma,false,42b8191d-09ad-400f-a684-2250677673ba
+Familia Pavón S.Coop.,43.48961,-8.2194,ES,Valencia,true,6265909b-0214-496c-b3d7-6b1dea786147
+Azeneth Sanjuan Chamorro S.L.,43.48961,-8.2194,ES,Zaragoza,true,67e93d68-2fa3-4b8b-9033-0d4e3f2b3810
+Manufacturas Globales S.L.,43.48961,-8.2194,ES,Zaragoza,true,62ca9dc9-f8ef-4ef2-81d6-6cf7d228830b
+Manufacturas Globales S.L.,43.48961,-8.2194,ES,Murcia,true,2edf8c06-da9b-4ad7-8f3d-fd26c07a8448
+Manufacturas Globales S.L.,43.48961,-8.2194,ES,Barcelona,true,7b3828b2-d771-447d-af54-1865194a2255
+Roldan y asociados S.A.,43.48961,-8.2194,ES,Zaragoza,true,a658dfef-98d4-4f5f-b45b-a54824eb0f03
+Soluciones Cañas y asociados S.Coop.,40.70995,0.57856,ES,Las Palmas,true,f1feda7d-7c22-4b87-85df-586579b95b1c
+Azeneth Sanjuan Chamorro S.L.,40.70995,0.57856,ES,Malaga,true,b3b9db0c-c979-4011-823e-aedce4c4aff1
+Familia Pavón S.Coop.,40.70995,0.57856,ES,Madrid,true,e4f2ed07-8e28-40b4-957a-a3c92f1cff9b
+Desarrollo del Sur S.L.U.,40.70995,0.57856,ES,Murcia,true,97df0e12-1c44-40b0-b13a-3229060fdf48
+Manufacturas Globales S.L.,40.70995,0.57856,ES,Palma,true,433022d8-7923-4289-beb6-5a36b829c697
+Valeria Guillen Tejera S.Com.,40.70995,0.57856,ES,Malaga,true,89c0a91e-6c92-4e43-9d5f-36d6810428f3
+Soluciones Cañas y asociados S.Coop.,40.70995,0.57856,ES,Murcia,true,87f23f53-9e7d-4d77-86ce-6af6f2ef5cae
+Valeria Guillen Tejera S.Com.,40.70995,0.57856,ES,Seville,true,e1ea5cdf-b3bc-4690-8225-799c28360b06
+Soluciones Cañas y asociados S.Coop.,41.15612,1.10687,ES,Zaragoza,true,74ac7ff8-e164-4350-9ece-9f01d0ba387e
+Roldan y asociados S.A.,41.15612,1.10687,ES,Bilbao,true,ee49b10f-07ea-4ad5-959b-a4ae2eb7145f
+Azeneth Sanjuan Chamorro S.L.,41.15612,1.10687,ES,Las Palmas,false,f893d44a-d787-4103-9222-0cb19b2a4d9f
+Azeneth Sanjuan Chamorro S.L.,41.15612,1.10687,ES,Murcia,true,9c8ab701-aa91-478b-9ae1-bc418e5fec5e
+Soluciones Cañas y asociados S.Coop.,41.15612,1.10687,ES,Valencia,true,94c5e788-bdd2-40b2-a86c-399eeba82255
+Desarrollo del Sur S.L.U.,41.15612,1.10687,ES,Palma,true,79958954-8e68-4be4-bb40-f8b0a45da910
+Belen Cobo Corral S.Coop.,41.15612,1.10687,ES,Zaragoza,true,ef129017-b6c3-4dda-b721-7ea4e46a1b6b
+Azeneth Sanjuan Chamorro S.L.,41.41204,2.18247,ES,Seville,true,a8d7c64c-b011-4640-a29b-f97fb4827643
+Familia Pavón S.Coop.,41.41204,2.18247,ES,Barcelona,true,954f2f5f-07b3-4d20-aa31-3213254723ca
+Valeria Guillen Tejera S.Com.,41.41204,2.18247,ES,Bilbao,true,bcf033df-503d-4a9d-b9e6-f469af9f62e3
+Azeneth Sanjuan Chamorro S.L.,41.41204,2.18247,ES,Palma,true,684b3943-1d4d-4f25-a372-37dfc5beea29
+Roldan y asociados S.A.,41.41204,2.18247,ES,Barcelona,true,18176c44-c818-4734-b2f5-77c6c34f55dc
+Desarrollo del Sur S.L.U.,41.41204,2.18247,ES,Malaga,true,6c849bf0-36fa-402d-86db-67f693a2a4a5
+Manufacturas Globales S.L.,41.63976,2.35739,ES,Madrid,true,c3b1defa-d41b-45b3-b0e3-08de438fd5cd
+Inmobiliaria Herrero S.A.,41.63976,2.35739,ES,Seville,true,6d3f02a4-733a-459c-8875-06866e0e6393
+Inmobiliaria Herrero S.A.,38.96667,-0.18333,ES,Bilbao,true,afb13af2-79fe-4a94-8bd8-35c64e274e1c
+Inmobiliaria Herrero S.A.,38.96667,-0.18333,ES,Murcia,true,06c5b899-a355-4c0d-8b8d-014ed7644386
+Valeria Guillen Tejera S.Com.,38.96667,-0.18333,ES,Palma,true,105aa3b9-af95-48be-bf0b-6fbbc2f66bd5
+Desarrollo del Sur S.L.U.,38.96667,-0.18333,ES,Madrid,true,81a909cb-b4ea-42c4-a0c6-2c7dec09893f
+Manufacturas Globales S.L.,38.96667,-0.18333,ES,Valencia,true,c3d124cb-fdb3-4aa3-9c87-c0714eca9a0a
+Desarrollo del Sur S.L.U.,38.96667,-0.18333,ES,Barcelona,true,aa6acfd4-4a50-4e4a-9301-7250894a49d6
+Farmaceútica Rosell & Asociados S.L.,38.38479,-0.76773,ES,Malaga,true,8e1a5117-f9af-486a-b048-5eaaef0f146d
+Inmobiliaria Herrero S.A.,38.38479,-0.76773,ES,Palma,true,803f14e2-e74b-49e0-a882-3787bd07315a
+Valeria Guillen Tejera S.Com.,38.38479,-0.76773,ES,Barcelona,true,8581566d-fe51-4d25-8164-7a3842f4b722
+Belen Cobo Corral S.Coop.,38.38479,-0.76773,ES,Seville,true,cd00b8d8-20a1-4a01-8fdb-426dd9969f1c
+Roldan y asociados S.A.,38.38479,-0.76773,ES,Seville,true,fba776cf-d61f-4a74-83b1-445132fbae5d
+Soluciones Cañas y asociados S.Coop.,38.38479,-0.76773,ES,Malaga,true,8e7c6482-123d-4922-8e39-2f74bbf4b4ab
+Familia Pavón S.Coop.,38.38479,-0.76773,ES,Seville,true,08d695a0-85d2-4928-b36d-a8c6a0c96f41
+Soluciones Cañas y asociados S.Coop.,42.06166,-1.60452,ES,Barcelona,true,995fce4e-4cc6-49bc-bbc8-523daa6a0ff2
+Roldan y asociados S.A.,42.06166,-1.60452,ES,Las Palmas,true,29a43e79-1568-4961-89cc-2d4106309c27
+Belen Cobo Corral S.Coop.,42.06166,-1.60452,ES,Bilbao,true,a89e77df-bc47-45a8-a421-a9ef0359d3ae
+Desarrollo del Sur S.L.U.,42.06166,-1.60452,ES,Zaragoza,true,2b3a9f84-7aa5-46c7-9ee9-4f6dc32fe1ae
+Inmobiliaria Herrero S.A.,42.06166,-1.60452,ES,Madrid,true,ede5f713-db45-417e-8fba-7c6e5a1fdd07
+Inmobiliaria Herrero S.A.,42.8139,-1.64295,ES,Barcelona,true,8bb403a7-d733-4316-9569-f7cb34d96486
+Desarrollo del Sur S.L.U.,38.10558,-1.86343,ES,Valencia,true,7e7cf56c-6f2c-4764-887c-b05dcca18a4a
+Soluciones Cañas y asociados S.Coop.,38.10558,-1.86343,ES,Bilbao,true,91b6c8b6-b99d-48ac-8ae0-4dac44c2a8fc
+Farmaceútica Rosell & Asociados S.L.,38.10558,-1.86343,ES,Zaragoza,true,22e47124-59c7-43ea-a51b-e1542a9b7eba
+Belen Cobo Corral S.Coop.,38.10558,-1.86343,ES,Barcelona,true,424f4b5c-3c32-4f7b-9ede-1a16057bdbb6
+Soluciones Cañas y asociados S.Coop.,38.10558,-1.86343,ES,Palma,true,5c985af0-09c9-48f4-804e-0063a7b7717d
+Familia Pavón S.Coop.,43.31667,-2.68333,ES,Murcia,true,f07b6714-9554-4746-bb22-568ddf9af897
+Roldan y asociados S.A.,43.31667,-2.68333,ES,Madrid,true,1b9a024e-0aad-45c5-8842-a4a084bad934
+Farmaceútica Rosell & Asociados S.L.,43.31667,-2.68333,ES,Murcia,true,4f00caed-47c1-4234-8931-5a7ad81f8539
+Azeneth Sanjuan Chamorro S.L.,43.31667,-2.68333,ES,Barcelona,true,0fd027db-3447-458f-a0f5-1e2120af310c
+Farmaceútica Rosell & Asociados S.L.,37.49073,-2.77259,ES,Barcelona,true,a7887411-e4dc-45e3-ade7-f3a65613b8d9
+Belen Cobo Corral S.Coop.,37.49073,-2.77259,ES,Las Palmas,true,e783729d-9592-4d37-8d81-c0c3c755b055
+Desarrollo del Sur S.L.U.,37.49073,-2.77259,ES,Bilbao,true,532079d2-b595-4c65-a651-5b300b877382
+Roldan y asociados S.A.,37.49073,-2.77259,ES,Malaga,true,15ed0981-946e-4e5f-869b-39c0db9303be
+Inmobiliaria Herrero S.A.,37.49073,-2.77259,ES,Zaragoza,true,487b904c-485d-4b19-a70f-4ea888a1eacc
+Manufacturas Globales S.L.,43.32686,-2.98884,ES,Bilbao,true,2319dfac-44aa-4469-9c9a-8d3d97ec13f5
+Familia Pavón S.Coop.,40.42386,-3.53261,ES,Palma,true,18a44149-d3b0-4166-a3e2-461168b29850
+Desarrollo del Sur S.L.U.,40.42386,-3.53261,ES,Las Palmas,true,132ee616-4e0a-4ae2-bed6-d9648a1f521c
+Familia Pavón S.Coop.,40.42386,-3.53261,ES,Bilbao,true,344f0a43-de54-452d-8412-242cf7d8c976
+Belen Cobo Corral S.Coop.,37.13548,-3.67029,ES,Murcia,true,534864d8-b320-4e13-b47b-6e6574ee0647
+Farmaceútica Rosell & Asociados S.L.,37.13548,-3.67029,ES,Valencia,true,5a76f234-7399-47ce-877b-e0b84a2bed06
+Manufacturas Globales S.L.,37.13548,-3.67029,ES,Malaga,true,8d8c781a-21b1-412d-a579-2203b3a1b90b
+Manufacturas Globales S.L.,37.13548,-3.67029,ES,Las Palmas,true,ef93521c-ba5e-4178-93b3-a197568dd8b9
+Inmobiliaria Herrero S.A.,38.68712,-4.10734,ES,Las Palmas,true,f4b601db-b49c-43cb-88ff-228eb778a5c2
+Roldan y asociados S.A.,38.68712,-4.10734,ES,Palma,true,95d82b31-173b-4474-a85e-b2a4b9dbaaa6
+Valeria Guillen Tejera S.Com.,38.68712,-4.10734,ES,Murcia,true,d8138e03-e27b-4c5f-aa53-8a1dc5856a2e
+Soluciones Cañas y asociados S.Coop.,39.96348,-4.83076,ES,Seville,true,01c571b4-3b17-4593-b369-394c67c456eb
+Valeria Guillen Tejera S.Com.,39.96348,-4.83076,ES,Valencia,true,8ad8609f-8626-4906-8265-f65bde145216
+Farmaceútica Rosell & Asociados S.L.,39.96348,-4.83076,ES,Palma,true,2064f24d-883c-4a9e-8b62-f2be4d620047
+Manufacturas Globales S.L.,39.96348,-4.83076,ES,Seville,true,8cf6bce5-02c9-4357-b101-7645e8cc03c6
+Farmaceútica Rosell & Asociados S.L.,39.96348,-4.83076,ES,Madrid,true,83f11c7e-6d19-4799-b468-17cefbc91a85
+Inmobiliaria Herrero S.A.,39.96348,-4.83076,ES,Valencia,true,5358b3bb-9888-463f-804b-7303bceda040
+Farmaceútica Rosell & Asociados S.L.,39.96348,-4.83076,ES,Las Palmas,true,2bedab23-41ed-40ee-afb7-f5a8f691bcd7
+Familia Pavón S.Coop.,42.64685,-5.55835,ES,Zaragoza,true,b4ecea2c-866a-484e-9ada-c3e654f38dd4
+Desarrollo del Sur S.L.U.,42.64685,-5.55835,ES,Seville,true,b8a5a03b-575d-4b64-868d-16599bc76b28
+Roldan y asociados S.A.,42.64685,-5.55835,ES,Valencia,true,3c93ce55-0094-40e4-840f-4a6587b4ccc9
+Belen Cobo Corral S.Coop.,42.64685,-5.55835,ES,Valencia,true,8b87eb10-f454-41c6-8075-2c1c37f2ce8e
+Azeneth Sanjuan Chamorro S.L.,37.35813,-6.03731,ES,Madrid,true,0331f1e2-5cb5-40e9-8911-ff1e5189ecbf
+Inmobiliaria Herrero S.A.,37.35813,-6.03731,ES,Malaga,true,f7777b8c-211e-443c-af7e-8b86964dd1c4
+Roldan y asociados S.A.,37.35813,-6.03731,ES,Murcia,true,b8694bf5-9d5e-4335-be7b-e0d687a8b3b5
+Azeneth Sanjuan Chamorro S.L.,27.76056,-15.58602,ES,Valencia,true,25b8246b-3f84-4793-925d-1b42a808e3fc
+Azeneth Sanjuan Chamorro S.L.,27.76056,-15.58602,ES,Bilbao,true,0b94cde3-1de9-48a5-806a-9e68054aef0c
+Carlier,48,-4.1,FR,Nice,true,474fe261-7e92-475b-b49b-70c12a576a66
+Lévy,48,-4.1,FR,Toulouse,true,f60e6505-2c5c-4d78-b4af-7d2a322f0c94
+Evrard Martinez et Fils,48,-4.1,FR,Montpellier,true,996593b9-49c2-4f52-9632-ed1244e53788
+Dupont,50.75,2.25,FR,Paris,true,cba2678c-8797-4c6c-8e59-bff224b2569f
+Wagner,48.98994,2.1699,FR,Strasbourg,true,643e70ac-fbbe-426f-9434-c85abe1a3f5f
+Nguyen,48.98994,2.1699,FR,Lyon,true,08c87d9a-4444-4273-b614-78cb7a9a4403
+Carlier,48.98994,2.1699,FR,Marseille,true,5d66bc9d-e5f1-4cfe-9195-40a717d92e4e
+Cohen et Fils,48.98994,2.1699,FR,Toulouse,true,85f34081-1394-480b-b5e5-cad68fab0777
+Lévy,48.98994,2.1699,FR,Nantes,true,bc07fbd3-daae-42e2-bf0c-41c5ec28fe13
+Nguyen,48.90472,2.2469,FR,Strasbourg,true,86600465-bdd2-4fe1-8a7f-0ced58a72ba0
+Cohen et Fils,45.69558,4.7934,FR,Nantes,true,ec7b2910-978f-4cb9-b2a6-32ff5fb1bddc
+Nguyen,45.69558,4.7934,FR,Bordeaux,true,b66f3e24-c8c9-4375-b472-dbe45fa8326f
+Dupont,44.92801,4.8951,FR,Nantes,true,3696f2e6-d1a7-4ac7-95ce-0b5fc44c9ba0
+Lévy,44.92801,4.8951,FR,Lyon,true,950d233c-6bae-4817-a8da-d92a7d8aa5f3
+Dupont,43.2907,5.4384,FR,Montpellier,true,c0a0ce8b-a4df-45a6-af42-a5134824ed68
+Dupont,43.2907,5.4384,FR,Nice,true,d5d84761-84b7-4120-811d-e598840cbe29
+Evrard Martinez et Fils,43.32393,5.4584,FR,Bordeaux,true,7a89a1b6-ec75-44a4-a3b2-aab1e7ae2ae4
+Giraud,43.32393,5.4584,FR,Montpellier,true,b47d01b8-6fa5-4d6e-8484-4884ce91aac9
+Carlier,49.28669,1.00288,FR,Toulouse,true,1345163e-372a-4053-aa50-4f0fe586ee44
+Dupont,49.28669,1.00288,FR,Lyon,true,e9bc669d-2865-4e5d-b827-aee05ee2e1b2
+Cohen et Fils,49.28669,1.00288,FR,Montpellier,true,8df23048-ed66-430f-a932-4a127984765b
+Nguyen,49.28669,1.00288,FR,Nice,true,038dc943-c965-4fc2-b37f-24ecf3eb543d
+Giraud,49.28669,1.00288,FR,Nantes,true,aba81079-1ac4-4b9b-b567-0bb56b733cf7
+Carlier,43.61058,1.33467,FR,Lille,true,6949fcf1-3a7e-4ac2-a72a-0d55137d31f9
+Cohen et Fils,43.61058,1.33467,FR,Lille,true,b02cf773-b7dc-4f94-9a29-ab15012a6a23
+Bodin,43.61058,1.33467,FR,Lyon,true,14d2a1dc-fd4a-4d9d-b6db-033d6bc056c1
+Giraud,48.86667,2.08333,FR,Toulouse,true,80977d9c-5b7c-4742-a557-80a3a9263182
+Grenier S.A.,48.86667,2.08333,FR,Nice,true,bf9d1ce2-e179-4fcf-acc1-0cc15d5ba066
+Cohen et Fils,48.86667,2.08333,FR,Marseille,true,548d58bf-35a1-46f8-aacf-db784d9bb0a7
+Lévy,48.86667,2.08333,FR,Strasbourg,true,f075d319-a3b2-4ed1-a315-a5113c9d40f1
+Cohen et Fils,48.86667,2.08333,FR,Nice,true,3670eff6-a33c-4ac0-95aa-e2974dab9dae
+Nguyen,48.86667,2.08333,FR,Paris,true,55638881-11c9-4dd6-a9c4-b0dd4b5db8bc
+Carlier,48.8222,2.12213,FR,Bordeaux,true,1a439387-01b0-4b15-ae63-db35476de023
+Carlier,48.8222,2.12213,FR,Montpellier,true,acc5f6c9-d462-446a-b0f9-12af4546664e
+Grenier S.A.,48.8222,2.12213,FR,Paris,true,14a72957-c78f-4d87-91e7-d9cbbf6ec335
+Lévy,48.8765,2.18967,FR,Marseille,true,61efc824-263e-45a3-8986-3aef98f832f6
+Nguyen,48.8765,2.18967,FR,Nantes,true,7db164b6-9631-4ecc-85e1-0e48bf21688c
+Giraud,48.8765,2.18967,FR,Paris,true,8b8bda41-2516-44d0-b456-020805dc89cf
+Lévy,48.8765,2.18967,FR,Nice,true,ea54f756-414a-4158-89f1-4b52f47d4c74
+Bodin,48.77644,2.29026,FR,Marseille,false,0a01e741-f3b1-4238-9fd5-7b1aaa22af9f
+Nguyen,48.77644,2.29026,FR,Marseille,true,261b643b-934d-4366-9e5a-1501b347b93a
+Dupont,48.77644,2.29026,FR,Toulouse,true,74640a88-b602-40a9-a0b1-3894b3339b57
+Grenier S.A.,48.77644,2.29026,FR,Marseille,true,4dbec0db-f053-4d13-b4f5-cbb5d50b0fc0
+Carlier,48.77644,2.29026,FR,Strasbourg,true,b5952c9f-bc9c-43dd-9440-cf0842c00cb3
+Evrard Martinez et Fils,48.77644,2.29026,FR,Lyon,true,31287268-c7e8-4f0c-8ea2-e35d6e6a9a1b
+Wagner,48.77644,2.29026,FR,Nice,true,ae94a968-4e0a-44ed-a2f8-966dd9e558a2
+Giraud,48.79325,2.29275,FR,Strasbourg,true,e08070cb-7f81-4743-8081-cc4a26ef91f8
+Carlier,48.98693,2.44892,FR,Nantes,true,dfae50ad-b277-41ac-b9de-cc38086470c5
+Cohen et Fils,48.90982,2.45012,FR,Bordeaux,true,8643dfa3-d78f-4883-945f-e35d6394f19b
+Giraud,48.90982,2.45012,FR,Lille,true,0581cd6e-e142-4060-8fde-75e4c306a7ef
+Grenier S.A.,48.90982,2.45012,FR,Lyon,true,bd726439-024e-4b6d-804a-792345e6d63c
+Bodin,48.90982,2.45012,FR,Montpellier,true,65afe7ad-8684-49c3-a2c2-fa4309665c0d
+Bodin,48.90982,2.45012,FR,Paris,true,d1da7a3e-3dfe-41c1-aeee-ae5e42174740
+Wagner,48.90982,2.45012,FR,Lyon,true,bbfbbe73-46f5-4632-a185-672479a83cce
+Bodin,48.98333,2.61667,FR,Lille,false,6fc8223f-3b84-4f6a-8e05-ccbbfd9b3627
+Dupont,48.98333,2.61667,FR,Strasbourg,true,fcaafe86-80f6-40d8-96ce-a5725d12976f
+Dupont,48.98333,2.61667,FR,Marseille,true,460b1741-20e4-4147-8554-fdb121b476b8
+Lévy,48.98333,2.61667,FR,Bordeaux,true,263e5e26-609f-4594-89c4-62b087dd5cb1
+Dupont,48.98333,2.61667,FR,Bordeaux,true,8ceaa778-f4f1-494c-881f-6c2299dca15c
+Lévy,48.98333,2.61667,FR,Lille,true,76f425a2-6daa-42d7-bca1-4601ca7c9a6d
+Wagner,43.61092,3.87723,FR,Nantes,true,c45a1205-b07c-4269-bf3e-6419b5764968
+Wagner,43.61092,3.87723,FR,Paris,true,1414930c-90e5-46f5-a905-ee1589f30cd1
+Evrard Martinez et Fils,43.61092,3.87723,FR,Strasbourg,true,b64b6c15-8a94-4228-a7d2-3ebc633a3781
+Wagner,43.67681,4.63031,FR,Montpellier,true,49dff199-0f8f-4380-a2d6-ac62dd665532
+Bodin,45.51667,4.86667,FR,Strasbourg,true,b90e18bd-858c-4560-b9cf-c17821b876a9
+Carlier,45.51667,4.86667,FR,Paris,true,3784d46c-56ee-4d6a-b815-c0db9c2b9f07
+Wagner,45.51667,4.86667,FR,Bordeaux,true,687ad363-2e2b-44d6-b5fe-635e4933fe6a
+Grenier S.A.,45.51667,4.86667,FR,Montpellier,true,cd45083c-f664-4592-b3a9-be31081b2a2c
+Grenier S.A.,45.73333,4.91667,FR,Lille,true,8cdca6f2-d158-4f3f-a771-08fae8a4038f
+Grenier S.A.,45.73333,4.91667,FR,Bordeaux,false,6176dfa3-ce69-461d-b1df-cef7928e4415
+Bodin,45.73333,4.91667,FR,Toulouse,true,bf858f1f-bf4f-4690-bc83-39a8fee35ca9
+Cohen et Fils,43.83125,5.03586,FR,Strasbourg,true,336bf7cb-a439-4694-83b5-1dde04b4ae4e
+Evrard Martinez et Fils,43.83125,5.03586,FR,Nice,true,fb9db5ed-16c5-418f-aeee-39f6afe52a14
+Lévy,43.83125,5.03586,FR,Paris,true,2ecbcfc2-d101-4006-91df-7e2094c0ca9d
+Giraud,43.83125,5.03586,FR,Bordeaux,true,ba4e4cd9-d7d6-460e-9bef-2a4dd75f9367
+Nguyen,43.83125,5.03586,FR,Montpellier,true,a175f707-62bb-4d2b-9f78-6322ed550ba3
+Evrard Martinez et Fils,48.77275,5.16108,FR,Toulouse,true,1b42bca7-2780-406e-b282-02cc7dcd43bf
+Grenier S.A.,48.77275,5.16108,FR,Nantes,true,6a9395df-629f-4984-9345-94616103cde1
+Bodin,46.67535,5.55575,FR,Bordeaux,true,d5400ab7-a00a-4a0d-897d-de4e29289bec
+Bodin,46.67535,5.55575,FR,Nantes,true,4a23c68c-20f7-4a3d-9855-85862014aefd
+Giraud,46.67535,5.55575,FR,Marseille,true,84f742a6-30c6-4c18-86a5-70e4ce91ea13
+Carlier,46.67535,5.55575,FR,Lyon,true,53e5b0b0-734f-42e3-ac99-d73e53172457
+Nguyen,46.67535,5.55575,FR,Lille,true,bd29a178-bfd5-4d2c-bfd6-184b79967285
+Evrard Martinez et Fils,41.91886,8.73812,FR,Paris,true,166e90b2-3df5-4bfc-a7c5-2574c42a9cc5
+Cohen et Fils,41.91886,8.73812,FR,Paris,true,984704a9-e8e9-410d-9f06-bb68d41e3d9c
+Giraud,41.91886,8.73812,FR,Nice,true,820eee84-bef9-4668-8ceb-c4dc70f158e3
+Grenier S.A.,46.32313,-0.45877,FR,Toulouse,true,f28082f2-c4b5-4045-8191-36ecba35f465
+Wagner,46.32313,-0.45877,FR,Marseille,true,3bbcf68e-3015-47aa-bf2b-bce305a414d6
+Evrard Martinez et Fils,46.32313,-0.45877,FR,Nantes,true,0e3d2cf6-2019-439b-9167-4cd02544a68e
+Bodin,46.32313,-0.45877,FR,Nice,true,33fbcd0c-bea8-42b0-b692-36a9f2cbd783
+Lévy,46.32313,-0.45877,FR,Montpellier,true,394154e2-4fe0-4248-87c7-38db0792bfff
+Evrard Martinez et Fils,44.80477,-0.59543,FR,Lille,true,9f3f6964-44c8-4666-90e3-5bf1b0dbc802
+Cohen et Fils,44.80477,-0.59543,FR,Lyon,true,ca86008b-3c9b-40f6-bf04-b2e2392329e4
+Evrard Martinez et Fils,44.80477,-0.59543,FR,Marseille,true,412f16b5-18f3-4ca1-a6bb-282ba7b9702b
+Grenier S.A.,44.80477,-0.59543,FR,Strasbourg,true,fd0c6662-60e7-45f0-86c0-dbd1ae8828ef
+Wagner,43.71032,-1.05366,FR,Lille,true,297b29e6-e2f8-4b69-855a-8cf87212d8e8
+Giraud,43.71032,-1.05366,FR,Lyon,true,58420173-75af-4e49-9d0a-a183eae9762e
+Wagner,43.71032,-1.05366,FR,Toulouse,true,a610dc96-011f-4434-9c25-75fb0ec07fa1
+Nguyen,43.71032,-1.05366,FR,Toulouse,true,f5ad0385-6fa0-4c10-9297-9dbbf5e56d4b
+Dupont,43.71032,-1.05366,FR,Lille,true,4b0aa800-7442-4d9b-9fe3-99a08d8d6572
+Terragni e figli,45.50369,11.412,IT,Milan,true,adeeb4c9-6409-476f-b686-ce24076c1886
+Terragni e figli,41.72063,12.6723,IT,Genoa,true,1d0458cf-acac-43bb-b386-11458b188ed6
+Papafava SPA,43.78956,7.60872,IT,Palermo,true,e71e64e0-8c98-4ed3-87d5-d38274595297
+"Sermonti, Bellò e Sinisi Group",43.78956,7.60872,IT,Catania,true,5c449fca-eb2b-4deb-8d2e-11629b9ef984
+Mennea-Golino Group,43.78956,7.60872,IT,Bari,true,da7b6349-1a43-49d3-b727-297bc908a53b
+"Comisso, Catenazzi e Valmarana e figli",43.78956,7.60872,IT,Bologna,true,5c86cce1-1ddd-4bf7-8bec-a91ec5f35670
+"Sermonti, Bellò e Sinisi Group",43.78956,7.60872,IT,Florence,true,47d8ab42-f3d7-4e9a-b44d-e9eeb8c4f702
+Petrocelli-Casadei e figli,43.78956,7.60872,IT,Bari,true,a248ca1a-2416-4602-b008-5eaea947f0f2
+Mennea-Golino Group,43.78956,7.60872,IT,Milan,true,91c8eee7-c79a-480f-ac59-9a325ef325ba
+Terragni e figli,43.78956,7.60872,IT,Bari,true,97d96077-b33b-40e9-a14c-25cbea257730
+Petrocelli-Casadei e figli,40.72586,8.55552,IT,Naples,true,ad4d0cc2-1d33-48c7-ac98-72b00f19605b
+Munari Group,45.44694,8.62118,IT,Bologna,true,83d28b81-1b65-4aae-8efe-15713e67cacb
+"Sermonti, Bellò e Sinisi Group",45.44694,8.62118,IT,Naples,true,09688eda-273b-4399-9446-aec76af12964
+Pedersoli s.r.l.,45.79377,8.88104,IT,Turin,true,db76d374-cdec-4da7-93c1-5c8913da5f76
+"Comisso, Catenazzi e Valmarana e figli",45.79377,8.88104,IT,Palermo,true,b92cf69e-0e55-4e84-b671-1ccf0e998aa8
+"Sermonti, Bellò e Sinisi Group",45.39402,9.29109,IT,Milan,true,309f08ee-283d-4b87-b439-a26061d4e524
+Lanfranchi-Badoer e figli,45.39402,9.29109,IT,Bologna,true,e0ffecf5-d373-4681-b8ff-565a813add12
+Munari Group,45.39402,9.29109,IT,Naples,false,583f21b7-6471-4c70-92d6-93e5eedb00c8
+Papafava SPA,44.31771,9.32241,IT,Florence,true,5d136121-d1c7-4b51-a47b-c41501e5f5a4
+Papafava SPA,44.31771,9.32241,IT,Rome,true,d46e218a-bc94-417c-9da0-6b0413870a2b
+Papafava SPA,45.53069,9.40531,IT,Genoa,true,1b86bebc-af7f-4772-8903-3a804a96a8ef
+Papafava SPA,45.53069,9.40531,IT,Turin,true,1075a011-8336-45c1-85a0-a7def3368440
+Pedersoli s.r.l.,45.53069,9.40531,IT,Catania,true,71d45ca4-af28-4b92-b526-816f3cf86277
+Munari Group,45.53069,9.40531,IT,Rome,true,519a371f-bd1d-42f2-997c-318d2a6900c4
+Lanfranchi-Badoer e figli,45.53069,9.40531,IT,Bari,true,9d120020-cd03-4f95-9b05-65b1c914c20e
+Papafava SPA,44.59445,11.04979,IT,Bari,true,fa1c597a-f3f9-4758-beed-53a90a90de9a
+Lanfranchi-Badoer e figli,44.59445,11.04979,IT,Catania,true,61c65e81-b2cf-46a4-a881-f4942bf5a8db
+Mennea-Golino Group,44.59445,11.04979,IT,Bologna,true,9a6e391b-1f4a-4c1f-bd00-7ab0fc00ffde
+Pedersoli s.r.l.,44.59445,11.04979,IT,Naples,true,d8c9f963-3910-4a76-be28-aeea5bf3c50f
+"Comisso, Catenazzi e Valmarana e figli",43.1122,12.38878,IT,Rome,true,8e9d4584-29b5-492a-b384-837fa171df30
+Seddio-Ajello Group,43.1122,12.38878,IT,Milan,true,a8b2d61d-5136-46d4-8ad1-8b805b12e4ba
+Pedersoli s.r.l.,43.1122,12.38878,IT,Bologna,true,eaea8cd8-c408-40c2-8b29-b150d4c1631e
+Lanfranchi-Badoer e figli,43.1122,12.38878,IT,Turin,true,0abca8ea-1a19-42d7-a315-fa1d1d27fb5e
+"Comisso, Catenazzi e Valmarana e figli",45.9836,12.70038,IT,Naples,true,58f86b02-13a1-4d69-a169-c5aa857da642
+Lanfranchi-Badoer e figli,45.9836,12.70038,IT,Milan,true,0d669008-722c-4c04-88ae-710fc54286df
+Petrocelli-Casadei e figli,45.9836,12.70038,IT,Palermo,true,ec466847-926e-4de0-83bf-a33a87cadb1f
+Seddio-Ajello Group,45.78071,12.84052,IT,Catania,true,74d38680-066a-482f-82f7-fe0d01c3b789
+Petrocelli-Casadei e figli,45.78071,12.84052,IT,Rome,true,79767342-f1e0-4c35-895b-eef56a71c8e3
+Seddio-Ajello Group,45.78071,12.84052,IT,Florence,true,34a004c3-e477-432c-a11d-864ca11cb128
+Lanfranchi-Badoer e figli,43.62558,13.39954,IT,Naples,true,6c84a27f-f18d-4147-9258-4a506bd25cca
+Papafava SPA,43.62558,13.39954,IT,Catania,true,36eb3f3a-25c3-4c76-b9cb-182bc810bc93
+Mennea-Golino Group,43.62558,13.39954,IT,Florence,true,68098b59-e590-42c2-85d4-9ef4b94e6e0e
+Munari Group,43.62558,13.39954,IT,Florence,true,6b554369-621d-4068-b06f-83d96571939c
+Terragni e figli,43.62558,13.39954,IT,Palermo,true,ac04893d-b864-40f5-8c7b-6e58d4ddf223
+Papafava SPA,38.07789,13.44275,IT,Bologna,true,3ca37de0-3478-47de-a82e-9a552b0130ce
+Terragni e figli,38.07789,13.44275,IT,Florence,true,71608204-aa84-4cf8-b0df-57abf092f182
+Mennea-Golino Group,38.07789,13.44275,IT,Catania,true,89ae185d-727b-46d2-adb3-5a8214a8e18a
+Petrocelli-Casadei e figli,38.07789,13.44275,IT,Bologna,true,87d400f3-c34a-4b54-9e38-b325ace01a0e
+"Comisso, Catenazzi e Valmarana e figli",38.07789,13.44275,IT,Genoa,true,6d4a8701-9fa6-455a-963a-d45e57463818
+"Comisso, Catenazzi e Valmarana e figli",37.31065,13.57661,IT,Catania,true,1892f791-b8ff-46f8-91af-7f171af8909c
+"Sermonti, Bellò e Sinisi Group",37.31065,13.57661,IT,Palermo,true,9f495325-6691-41ca-8691-ed0f8dff4739
+Petrocelli-Casadei e figli,37.31065,13.57661,IT,Catania,true,967d82ea-f5bf-4410-8d89-c1ee7f9e67f2
+"Sermonti, Bellò e Sinisi Group",37.31065,13.57661,IT,Bari,true,c61b6ae8-668a-4656-91f2-79f661bde555
+Lanfranchi-Badoer e figli,37.31065,13.57661,IT,Palermo,true,61454902-a924-4b44-9a86-837c8178b139
+Seddio-Ajello Group,42.67164,14.01481,IT,Turin,true,d51ad61a-5d17-40df-b905-fc401744097d
+Lanfranchi-Badoer e figli,42.67164,14.01481,IT,Florence,true,3fd2c750-79d1-484e-967e-8d2c22f35694
+Terragni e figli,42.67164,14.01481,IT,Turin,true,1f6483ae-7dd3-4756-bff6-5317adf8735b
+"Comisso, Catenazzi e Valmarana e figli",42.67164,14.01481,IT,Milan,true,c4f605dc-2e6e-412c-933b-03feb069bff7
+Munari Group,40.92298,14.30935,IT,Turin,true,3c95c969-129d-442c-bf32-f4d85b6f512d
+"Sermonti, Bellò e Sinisi Group",40.92298,14.30935,IT,Rome,true,324a0780-4868-40bc-8cab-1c85438dd821
+Munari Group,40.87363,14.34085,IT,Catania,true,c58c2e41-aaca-4aba-8b78-f03c1dce518c
+Mennea-Golino Group,40.87363,14.34085,IT,Turin,true,31daf827-81e0-44bc-b87a-dbf64957ea14
+"Sermonti, Bellò e Sinisi Group",42.22718,14.39024,IT,Turin,true,92e15c45-6239-4d56-a2e8-258bc2c8d67d
+Seddio-Ajello Group,42.22718,14.39024,IT,Bari,true,bdb7785c-82eb-46e6-b3f6-c0513bc94e3a
+Terragni e figli,40.87329,14.43865,IT,Bologna,true,1609b20d-c7a6-4bb9-979d-3b336392efb8
+Munari Group,40.87329,14.43865,IT,Bari,true,1bf2ddd3-993f-4518-934e-b87836c7a7a6
+"Comisso, Catenazzi e Valmarana e figli",40.87329,14.43865,IT,Florence,true,dbc67ab9-d131-47cd-898f-f4b327d93b5f
+Papafava SPA,40.87329,14.43865,IT,Naples,true,50650fba-eadd-4d1f-9b36-aa83d72f5137
+Pedersoli s.r.l.,40.87329,14.43865,IT,Bari,true,ecd0327a-2369-4dd2-9c34-a13c3d627924
+Papafava SPA,41.55947,14.66737,IT,Milan,true,bf22aba1-2c06-4816-87ef-ea4501fae86b
+Mennea-Golino Group,41.55947,14.66737,IT,Naples,true,c5663a66-a4b9-4506-8601-993be434c98b
+Terragni e figli,41.55947,14.66737,IT,Catania,true,50f313ef-6cd6-4e50-a141-2a07bea3457d
+"Sermonti, Bellò e Sinisi Group",41.55947,14.66737,IT,Genoa,true,7e8760b4-9f71-44e9-8021-7d7c7a1971de
+Munari Group,36.92574,14.72443,IT,Milan,true,745339c8-8019-4dab-afba-f04822b9d592
+"Sermonti, Bellò e Sinisi Group",36.92574,14.72443,IT,Bologna,true,8ab25387-44c1-4fdf-b7fc-7766ab38799c
+"Comisso, Catenazzi e Valmarana e figli",36.92574,14.72443,IT,Bari,true,e3763c61-a1ff-4438-a053-cc199351f210
+Seddio-Ajello Group,36.92574,14.72443,IT,Palermo,true,9026c2d5-4efe-4db1-8814-84386fb59314
+Mennea-Golino Group,36.92574,14.72443,IT,Genoa,false,3512dad7-7bcb-4682-9dd2-eb869ae1803e
+Pedersoli s.r.l.,37.51803,15.00913,IT,Florence,true,6675202a-ac4c-4ef5-a305-79ccdf046464
+Seddio-Ajello Group,37.51803,15.00913,IT,Bologna,true,b3155d5a-f036-405a-8a1f-6bc32e89a136
+Petrocelli-Casadei e figli,37.51803,15.00913,IT,Genoa,true,b16d90a5-d616-4b10-80af-ef018332f805
+Seddio-Ajello Group,37.51803,15.00913,IT,Genoa,true,39e7e216-df45-4989-ad08-d153b4ff23b7
+"Comisso, Catenazzi e Valmarana e figli",37.51803,15.00913,IT,Turin,true,b4d5696e-653d-4749-82c1-33cbfe07e47a
+Mennea-Golino Group,37.49223,15.07041,IT,Palermo,true,ec733dad-5ad3-43ba-a1a3-de338877bf43
+Seddio-Ajello Group,37.49223,15.07041,IT,Naples,true,dea07eab-d2f4-4f2f-a84c-be8abdb951ba
+Terragni e figli,37.49223,15.07041,IT,Naples,true,a0cc0428-2fb3-42a9-aa83-8299c673d3de
+Petrocelli-Casadei e figli,37.49223,15.07041,IT,Turin,true,e0242238-a014-4e1b-8aae-08ea3435dd08
+Munari Group,37.49223,15.07041,IT,Palermo,true,9dd9c955-2473-49be-9b2b-11a671c60069
+Mennea-Golino Group,37.49223,15.07041,IT,Rome,true,b0d8f2ad-769f-46ab-b6cb-feb302866623
+Pedersoli s.r.l.,37.49223,15.07041,IT,Genoa,true,5902f2ce-8c3a-4c9c-86f6-7190e90139ea
+Petrocelli-Casadei e figli,41.24264,16.50104,IT,Milan,true,8e551e68-fa8c-49a4-b597-fbcda6df5aa6
+Pedersoli s.r.l.,40.53123,17.58522,IT,Palermo,true,8a2bc66b-b399-43cb-b9fb-312484c6ae4d
+Pedersoli s.r.l.,40.53123,17.58522,IT,Rome,false,87117808-e3dd-46fe-bccc-bdd70b4bc2d8
+Petrocelli-Casadei e figli,40.53123,17.58522,IT,Florence,true,881e6674-de5f-4321-8a6b-2d37869e1f34
+Terragni e figli,40.53123,17.58522,IT,Rome,true,d9c09ac8-6bc6-4abc-b28d-bb03929cd8d9
+Lanfranchi-Badoer e figli,40.53123,17.58522,IT,Rome,true,2a360580-1b55-4011-8a94-62a6cc40bc2b
+Pedersoli s.r.l.,40.53123,17.58522,IT,Milan,true,bd5bc59d-1238-4684-87f0-34a5bf3d0f9b
+Munari Group,40.53123,17.58522,IT,Genoa,true,9d3d0216-4a56-4ebc-98ef-86c036a00146
+Seddio-Ajello Group,40.55851,17.80774,IT,Rome,true,9abe09db-df89-4363-bdce-a7adda2e4c97
+Lanfranchi-Badoer e figli,40.55851,17.80774,IT,Genoa,true,4e9bfa53-b770-481a-bb29-050d3bb47203
+合同会社吉田農林,34.61667,135.6,JP,Yokohama,true,22639f18-9790-46e4-be7c-07be85cc180c
+佐々木建設合同会社,34.61667,135.6,JP,Fukuoka,true,8c82f183-1aeb-4382-822b-989072e55cbe
+合同会社吉田農林,34.61667,135.6,JP,Nagoya,true,8f182cb8-f594-4519-99e3-20b763662ffb
+合同会社清水電気,34.81667,137.4,JP,Kawasaki,true,8551dce5-6d2d-4e96-addb-05ebc7f6c37a
+株式会社田中通信,34.81667,137.4,JP,Kawasaki,true,4b5740cf-6141-4f50-8f10-8fa0f19673dd
+山口ガス有限会社,34.9,137.5,JP,Saitama,true,35119beb-0a8f-495f-a624-827642c0de44
+斉藤運輸株式会社,34.9,137.5,JP,Fukuoka,false,47076a96-4970-4c7e-9f8f-9ff030180473
+斉藤運輸株式会社,34.9,137.5,JP,Saitama,true,1e0222ec-07db-4458-bf96-f6516a141a62
+斉藤運輸株式会社,39.46667,141.95,JP,Yokohama,false,d9bbaed8-a362-46b6-8e32-87bdbf43105b
+高橋鉱業合同会社,39.46667,141.95,JP,Kobe,true,58876936-adc7-4e0a-9072-a7689358fdb5
+合同会社清水電気,39.46667,141.95,JP,Sapporo,true,d946a46a-7d7e-4908-9137-c56830477cf8
+山口ガス有限会社,39.46667,141.95,JP,Nagoya,true,3b405b7c-620a-4664-a8a2-de5dab837415
+青木食品株式会社,39.46667,141.95,JP,Sapporo,true,254102ec-0453-45dd-b2eb-4086ce12bd6a
+株式会社田中通信,39.46667,141.95,JP,Osaka,true,7f4cd8eb-ffd3-47d5-b0dd-9823d279e7ab
+山口ガス有限会社,35.815,139.6853,JP,Kobe,true,a43d5437-793e-43bb-b7cd-3fdd9c80a1f3
+佐々木建設合同会社,35.815,139.6853,JP,Saitama,true,13f47652-b8d5-4d33-9957-09dba8b5e9ba
+山口ガス有限会社,33.4425,129.96972,JP,Sapporo,true,e4ba7d8e-9b18-40b4-9591-d8b759985882
+青木食品株式会社,33.4425,129.96972,JP,Fukuoka,true,20b72ef7-8531-443b-8481-28090ac754d9
+合同会社清水電気,33.3213,130.94098,JP,Fukuoka,false,6a0150fe-8ec5-45ed-be14-25d7230e545d
+斉藤運輸株式会社,35.06667,135.21667,JP,Tokyo,true,43363bcc-0616-4244-8720-3a9d663f2879
+合同会社吉田農林,35.06667,135.21667,JP,Sapporo,false,20e1094b-cfdb-4388-88ad-5d66016b404c
+合同会社清水電気,35.06667,135.21667,JP,Saitama,true,22b00bbb-79ef-42c1-a0cb-55e642e760be
+斉藤運輸株式会社,35.06667,135.21667,JP,Sapporo,true,c395cdc1-9c8a-4d06-b752-3935534e432c
+合同会社清水電気,35.06667,135.21667,JP,Tokyo,true,c4bf51ea-e4cb-40d9-9c00-a3dd9e721873
+合同会社清水電気,34.25,135.31667,JP,Kyoto,true,04efe308-5f28-4c50-9334-ba01a34fd506
+佐々木建設合同会社,34.75856,136.13108,JP,Kyoto,true,46e06543-68e0-4754-96a8-ce644f726055
+株式会社田中通信,34.75856,136.13108,JP,Saitama,true,9337fc07-22a2-4adc-bdd2-96ab6e479161
+小林銀行有限会社,34.75856,136.13108,JP,Kawasaki,true,fb723701-3c1a-4b2c-8bbe-0c0d6054c60c
+小林銀行有限会社,35,136.51667,JP,Yokohama,true,d47181c6-0576-4fd3-b0ca-106de4f3315b
+佐々木建設合同会社,35,136.51667,JP,Sapporo,false,b8b99d30-ea00-426d-accc-492048674978
+佐々木建設合同会社,35,136.51667,JP,Kobe,true,537cd252-c029-451b-8b12-1fa8cd2a4b0e
+合同会社吉田農林,35,136.51667,JP,Kobe,true,8d313c16-5d20-493f-b3e1-346a94633eea
+青木食品株式会社,36.53333,136.61667,JP,Kobe,true,18488be4-0bca-4d40-ad5d-9e4fe19a3eb2
+高橋鉱業合同会社,36.53333,136.61667,JP,Osaka,true,5a3b89e7-4393-4a21-aa6e-647408df2cf4
+青木食品株式会社,36.53333,136.61667,JP,Nagoya,true,2741d819-6b62-47aa-af66-84355968ed52
+株式会社田中通信,36.53333,136.61667,JP,Tokyo,true,e152382e-bdc1-408b-a4ed-1a2cd3e738a4
+山口ガス有限会社,36.53333,136.61667,JP,Tokyo,true,cba8ab5b-0471-4216-a7b0-486d36b5e85a
+高橋鉱業合同会社,36.53333,136.61667,JP,Kawasaki,true,43e06081-fbc6-4b91-8f5f-31cac7f9112c
+株式会社田中通信,36.53333,136.61667,JP,Kobe,true,63f7a596-d5f2-4d2e-8f7b-0ab1d76a37ea
+山口ガス有限会社,34.4833,136.84186,JP,Kyoto,true,ba05f336-c237-4c5a-ba38-abaaef50705a
+株式会社松本電気,34.4833,136.84186,JP,Nagoya,true,9af5cafb-025f-4b38-8cbd-27f5bf6ae7e8
+山口ガス有限会社,34.4833,136.84186,JP,Fukuoka,true,e1eb88f0-5c57-4020-b9d6-80561e50cab0
+小林銀行有限会社,34.4833,136.84186,JP,Nagoya,true,85af5400-35ce-4c41-8d90-4353af045e2f
+小林銀行有限会社,35.48199,137.02166,JP,Sapporo,true,0ba29c94-09e7-4635-956e-d7872fe8b5f7
+合同会社清水電気,35.48199,137.02166,JP,Yokohama,true,9dde25ad-fc7d-443f-b4b0-b67111c54409
+株式会社田中通信,35.48199,137.02166,JP,Kyoto,true,345d2074-3c6a-45a5-9604-e57a59e71a48
+株式会社松本電気,35.48199,137.02166,JP,Yokohama,true,ad696581-2268-4961-94ba-f1bcf845c5d3
+株式会社松本電気,35.48199,137.02166,JP,Osaka,true,c8fa947b-d4cc-4a4c-9c90-e49aa7e6af02
+合同会社吉田農林,35.8,137.23333,JP,Saitama,true,598fbc71-607c-43a8-a801-5ff63a29867f
+青木食品株式会社,35.8,137.23333,JP,Tokyo,true,ef861b55-c8a6-405c-bac0-e1b65351c9bc
+斉藤運輸株式会社,35.8,137.23333,JP,Nagoya,true,75a21f47-e9e3-49f3-b9da-9b6b8534d0c6
+高橋鉱業合同会社,35.8,137.23333,JP,Nagoya,true,573afd14-6dfc-43dc-8212-00f98adaf9dd
+合同会社清水電気,36.75965,137.36215,JP,Nagoya,true,b2e57a6b-aef2-4997-92de-b949c3e98d09
+合同会社吉田農林,36.75965,137.36215,JP,Osaka,true,7f39ef84-78dd-4103-89bd-e2774bb8d2bf
+高橋鉱業合同会社,36.75965,137.36215,JP,Tokyo,true,72f514a7-4933-44b2-a706-5e397a19c5b4
+株式会社田中通信,36.75965,137.36215,JP,Nagoya,false,68ffc111-f46d-4dde-9535-637477324a1b
+株式会社松本電気,35.82756,137.95378,JP,Tokyo,true,28f13d52-68d0-4ebc-84d3-8bd226c4f24f
+佐々木建設合同会社,35.82756,137.95378,JP,Kawasaki,true,26a7fe93-c05d-4478-a319-841d3adf963e
+合同会社清水電気,35.82756,137.95378,JP,Kobe,true,862ff8d4-ac3c-4f4c-9d44-8c603f1da806
+青木食品株式会社,35.82756,137.95378,JP,Kyoto,false,a31fb604-e4f9-4b0d-ab96-ef1a15cc017d
+山口ガス有限会社,35.82756,137.95378,JP,Osaka,true,df425d45-2560-4957-9eef-237a1c25391d
+山口ガス有限会社,35.82756,137.95378,JP,Kawasaki,true,baf33282-b9ba-4ea4-8ba7-2ee347e983f3
+小林銀行有限会社,35.82756,137.95378,JP,Saitama,true,d2417f5e-bf5b-4966-9997-34197effce57
+合同会社吉田農林,35.82756,137.95378,JP,Kyoto,true,a53aced1-f673-4164-a5c2-f7fc851b87ba
+青木食品株式会社,36.65,138.31667,JP,Yokohama,true,e9904edb-3f65-4c4e-ab48-d150a474b6cf
+佐々木建設合同会社,36.65,138.31667,JP,Osaka,true,49638996-de41-4600-a004-b9202f845488
+斉藤運輸株式会社,36.65,138.31667,JP,Kobe,true,c7691984-e06f-4fae-b49e-575f9fb7e7a3
+青木食品株式会社,36.33011,138.89585,JP,Osaka,true,06929ba3-694c-4dde-8ce8-ca134d1c3922
+斉藤運輸株式会社,36.33011,138.89585,JP,Kawasaki,true,fb6b36b7-7a7c-42c4-b729-9e5f2fad93df
+佐々木建設合同会社,36.33011,138.89585,JP,Yokohama,true,030be6fb-5311-4749-8a60-a53a3e198089
+斉藤運輸株式会社,36.33011,138.89585,JP,Kyoto,true,3f943adf-e679-4c84-9511-266042022a94
+佐々木建設合同会社,36.33011,138.89585,JP,Nagoya,true,b5370ee1-f78d-4ea2-bdb6-7eab0ce04b08
+株式会社田中通信,36.33011,138.89585,JP,Yokohama,true,3f99f581-d024-4847-89a7-fd02c4f1a213
+株式会社松本電気,36.24624,139.07204,JP,Kyoto,true,bb778605-c8de-413e-834b-48e3bc65afa1
+株式会社松本電気,36.24624,139.07204,JP,Fukuoka,true,1260b90a-4c3a-49fd-977a-4d72b8d4481c
+株式会社田中通信,36.24624,139.07204,JP,Fukuoka,true,4460c76b-565a-405a-80e9-8f81eea89494
+合同会社吉田農林,36.24624,139.07204,JP,Kawasaki,true,cac8c78b-90c2-4b64-b851-5f87fa3b0458
+株式会社松本電気,35.30889,139.55028,JP,Kobe,true,17844526-a584-4666-a349-bc8f09bb1825
+小林銀行有限会社,35.30889,139.55028,JP,Tokyo,true,59cbe9ce-ef2c-4959-9f98-06d33cac78ae
+高橋鉱業合同会社,35.30889,139.55028,JP,Fukuoka,true,ea2ecb69-311c-4dae-b515-44dde5c78adc
+小林銀行有限会社,35.30889,139.55028,JP,Osaka,true,6b1c60e5-8535-4a45-8396-03936cd3d5f0
+高橋鉱業合同会社,35.30889,139.55028,JP,Saitama,true,583acde2-dbca-41ba-9830-3e0b78b809e9
+高橋鉱業合同会社,35.30889,139.55028,JP,Yokohama,true,e16831ce-db06-4767-83c9-c7e682c8b378
+斉藤運輸株式会社,35.30889,139.55028,JP,Osaka,true,8b328e55-1d78-478f-8733-828d63619f9e
+山口ガス有限会社,36,139.55722,JP,Yokohama,true,bc76aa86-e2d7-43a4-ac70-f6d7015825b5
+青木食品株式会社,36,139.55722,JP,Kawasaki,true,fb8cc261-45be-4416-b52e-bb532a2903b2
+高橋鉱業合同会社,36,139.55722,JP,Sapporo,true,508350f2-f88b-41c7-a1fb-f9301584088c
+株式会社松本電気,36,139.55722,JP,Sapporo,false,bca209b8-fd03-4b36-b6ba-78c1c206c6a7
+合同会社吉田農林,37.56667,140.11667,JP,Tokyo,true,d4737263-1b7c-4bac-b7d8-5d352cade5d4
+株式会社田中通信,41.77583,140.73667,JP,Sapporo,true,f94ae537-0a2f-420e-a870-bf8397bb358f
+株式会社松本電気,41.77583,140.73667,JP,Saitama,true,962a4fbf-83da-414e-acb8-f933189b4ad8
+青木食品株式会社,41.77583,140.73667,JP,Saitama,false,a2abea49-cfe2-4935-9ddb-f994b759c994
+小林銀行有限会社,41.77583,140.73667,JP,Kobe,true,bcf7704d-9f84-4cf6-b231-e10f37a494a1
+高橋鉱業合同会社,44.35056,142.45778,JP,Kyoto,true,3a55df39-90e4-41a4-9c7c-b7b4515beafc
+佐々木建設合同会社,43.82634,144.09638,JP,Tokyo,true,85c96935-b987-4a98-a8f3-2d9390dfb9f7
+合同会社吉田農林,43.82634,144.09638,JP,Fukuoka,true,b8856939-ad31-4954-9b5d-e1ace557d180
+合同会社清水電気,43.82634,144.09638,JP,Osaka,true,92b4771b-f11d-4090-97f9-1451dd0c5995
+小林銀行有限会社,43.82634,144.09638,JP,Kyoto,true,06cbcb0e-1294-46b0-a2ce-367ccbeb39b5
+小林銀行有限会社,43.82634,144.09638,JP,Fukuoka,true,69b8aee4-bf8a-4bbb-ae51-1b4d08030b97
+株式会社松本電気,43.82634,144.09638,JP,Kawasaki,true,55d5ea45-b92a-4be5-89f3-639e06591dfa
+Araújo Lda.,37.08819,-8.2503,PT,Braga,true,288d92aa-998d-4b9b-a618-95e1680dea0f
+Rodrigues,37.08819,-8.2503,PT,Lisboa,true,cfdb9e8b-7c0b-40f9-9233-86dc07ffdb71
+Cunha Lda.,37.08819,-8.2503,PT,Porto,true,8e57afe1-0904-4c7b-afb3-aa326b464e8e
+Coelho,37.08819,-8.2503,PT,Lisboa,true,68afa3cd-4889-4e82-a519-46039e8ead8c
+Leal Martins e Filhos,37.08819,-8.2503,PT,Vila Nova de Gaia,true,94a82bab-6be4-429e-9c42-f6d71358667b
+Leal Martins e Filhos,37.08819,-8.2503,PT,Almada,true,796f9bd8-de8f-4812-ba65-efac05f0a620
+Lima Barbosa S.A.,37.08819,-8.2503,PT,Lisboa,true,4b8ba8da-62fd-4e1b-9223-179dc86a7614
+Leal Martins e Filhos,37.08819,-8.2503,PT,Coimbra,true,0d1d6adf-be86-4a17-8f68-9ab431751823
+Marques,37.08819,-8.2503,PT,Vila Nova de Gaia,true,1384c842-3e34-451d-ab72-a2ff350d47d0
+Lima Barbosa S.A.,37.08819,-8.2503,PT,Funchal,true,0767c807-55dc-44d8-a03c-725dd80e2a4d
+Marques,37.08819,-8.2503,PT,Braga,true,bfe439d4-47fc-495d-a52e-b0bd9f9b0e7f
+Neves Guerreiro e Filhos,37.08819,-8.2503,PT,Amadora,true,ff26a986-7ae9-434f-ab4c-bbebfd148193
+Marques,37.08819,-8.2503,PT,Queluz,true,6eb2ce6a-b5de-4367-8b67-a34f97865908
+Paiva S.A.,37.08819,-8.2503,PT,Queluz,true,2905bc13-61b4-461c-9703-87803cabc506
+Paiva S.A.,37.08819,-8.2503,PT,Braga,true,26d577f3-29a6-48a1-8beb-fe337e7d3ce5
+Lima Barbosa S.A.,37.08819,-8.2503,PT,Queluz,true,ac2951b1-b108-447d-b86f-5a96d1fb5e07
+Coelho,37.08819,-8.2503,PT,Vila Nova de Gaia,true,9ee3d008-3aa2-49e2-bd07-5ae23dda5b95
+Araújo Lda.,41.1053,-7.32097,PT,Queluz,true,a0affc11-4e1c-42aa-8af2-2604831ab147
+Rodrigues,41.1053,-7.32097,PT,Amadora,true,583d3e60-a3c0-446b-becb-8493e390f4d0
+Paiva S.A.,41.1053,-7.32097,PT,Amadora,true,1ebf3b24-47ca-423a-aecb-b7fab75fdc63
+Araújo Lda.,41.1053,-7.32097,PT,Funchal,true,1b5a3e89-ea5d-4887-9d94-d81e64957636
+Cunha Lda.,41.1053,-7.32097,PT,Almada,true,3f5841c8-152f-4a1d-a203-e4d5c7184c1c
+Cunha Lda.,41.1053,-7.32097,PT,Braga,true,9d6d7705-07f4-4d48-b663-d575f2f0e559
+Rodrigues,41.1053,-7.32097,PT,Setubal,true,b251c9a3-7d76-4509-971a-a02f714c74a3
+Neves Guerreiro e Filhos,41.1053,-7.32097,PT,Porto,true,c0aa5ab0-7355-4c24-a496-9ba53d5b8ebb
+Coelho,41.1053,-7.32097,PT,Porto,true,37ac9c35-e8e0-4a5a-8b66-0d08878eafac
+Cunha Lda.,41.1053,-7.32097,PT,Funchal,false,f169a902-b423-454a-a209-93cc8f7a0b0b
+Coelho,41.1053,-7.32097,PT,Amadora,true,0486191a-ef80-4f70-9681-87553ae5e22a
+Coelho,41.1053,-7.32097,PT,Coimbra,true,aa2a49b1-4ed8-4923-bf6f-19a7fdb21f15
+Cunha Lda.,41.1053,-7.32097,PT,Lisboa,false,461b4b6a-115d-4329-adea-2338a821206f
+Neves Guerreiro e Filhos,41.1053,-7.32097,PT,Funchal,true,b493501a-ef9c-477f-b520-de22d8a35d69
+Neves Guerreiro e Filhos,41.1053,-7.32097,PT,Lisboa,true,e5ec01ab-f344-4d4c-ab2b-325fc112a9d8
+Neves Guerreiro e Filhos,41.1053,-7.32097,PT,Coimbra,true,bf830796-ebc3-4748-b59a-f4bff62e7fab
+Rodrigues,41.1053,-7.32097,PT,Vila Nova de Gaia,true,811d0292-a87f-42dd-867b-3dc1010d230a
+Lima Barbosa S.A.,41.1053,-7.32097,PT,Amadora,true,51c195b6-8183-4666-b103-ae70354e5955
+Cunha Lda.,41.1053,-7.32097,PT,Vila Nova de Gaia,true,932b4eff-2c38-45d3-9cc0-4c00c159341f
+Rodrigues,41.1053,-7.32097,PT,Braga,true,15612670-6c5b-4150-808d-bd20f5a08097
+Torres Abreu Lda.,41.1053,-7.32097,PT,Setubal,true,ec53456f-a542-430f-be84-7cf78ab675bd
+Lima Barbosa S.A.,41.1053,-7.32097,PT,Braga,false,8e54e1a0-703a-4632-97a8-4377ac9ba05b
+Torres Abreu Lda.,41.20485,-8.33147,PT,Porto,true,1968f922-73b3-49ea-ac36-29a940e1a095
+Coelho,41.20485,-8.33147,PT,Braga,true,3889124e-23d5-4b3d-a116-7c93844681a0
+Torres Abreu Lda.,41.20485,-8.33147,PT,Funchal,true,f7f64a53-17e0-4a92-8c3d-eaf6d3e2f637
+Rodrigues,41.20485,-8.33147,PT,Queluz,true,ed24f4d5-b53b-411a-94ce-146d77b24e34
+Leal Martins e Filhos,41.20485,-8.33147,PT,Setubal,true,2b14f8fa-4357-4906-9cac-61d505f74db4
+Marques,41.20485,-8.33147,PT,Almada,true,3a76c36c-ee16-4825-8b0f-2472d4318b13
+Leal Martins e Filhos,41.20485,-8.33147,PT,Queluz,true,dd05c70e-5109-499d-9aca-ba8f85bf35ed
+Torres Abreu Lda.,41.20485,-8.33147,PT,Coimbra,true,20c106e2-f44c-4f3a-b3d7-3f3ea8845340
+Marques,41.20485,-8.33147,PT,Funchal,true,ec624359-b963-4420-9036-27d97328b95e
+Leal Martins e Filhos,41.20485,-8.33147,PT,Funchal,true,a29d85f4-239a-4882-8c36-f4aae81520ec
+Neves Guerreiro e Filhos,41.20485,-8.33147,PT,Setubal,true,f55912c9-5c8c-4ce6-83a7-7d2e1a2ee94d
+Paiva S.A.,41.20485,-8.33147,PT,Vila Nova de Gaia,true,d8b491cf-bf21-4462-a082-176cff0ddf22
+Neves Guerreiro e Filhos,41.20485,-8.33147,PT,Braga,true,5bce2114-90b5-4717-a542-b1ae5b0c7b09
+Torres Abreu Lda.,41.20485,-8.33147,PT,Lisboa,true,ae388ff8-3561-4b81-906a-6cbb67cf1af0
+Rodrigues,41.20485,-8.33147,PT,Porto,true,7e7311a0-0c8b-46c8-b70d-4cb7e8f66c15
+Araújo Lda.,41.20485,-8.33147,PT,Vila Nova de Gaia,true,1122d9b7-ebf2-46e0-a25d-cfb32ff732c9
+Coelho,41.20485,-8.33147,PT,Almada,true,28a54321-61b1-42e8-8db8-c3fe4af8326a
+Rodrigues,41.20485,-8.33147,PT,Funchal,true,c5d70a25-162a-456b-a1b3-be4bfe183d0f
+Paiva S.A.,38.72706,-9.24671,PT,Porto,true,7cefb423-09b0-48f5-88f9-ebf305081e37
+Paiva S.A.,38.72706,-9.24671,PT,Setubal,true,292f9b23-1026-4358-b6b4-1b25fd75d4e4
+Coelho,38.72706,-9.24671,PT,Setubal,true,36aea953-3e05-4967-be98-463b9cf1cdaf
+Torres Abreu Lda.,38.72706,-9.24671,PT,Amadora,true,c45ec2b7-0e0b-4741-8410-06504108d8d3
+Marques,38.72706,-9.24671,PT,Amadora,true,321278aa-9054-4a74-961d-8a8c31cfed31
+Neves Guerreiro e Filhos,38.72706,-9.24671,PT,Almada,true,0993c209-0742-4947-9c83-707159d4cbba
+Torres Abreu Lda.,38.72706,-9.24671,PT,Vila Nova de Gaia,true,27658470-ede7-4225-ad8b-ae29a5779724
+Rodrigues,38.72706,-9.24671,PT,Coimbra,true,3b965495-e2d0-4153-89b7-b55492092e2c
+Torres Abreu Lda.,38.72706,-9.24671,PT,Almada,true,27a34a66-6e69-44a2-b4b6-06141d0617e0
+Neves Guerreiro e Filhos,38.72706,-9.24671,PT,Vila Nova de Gaia,true,9bc052ff-9be0-4f07-8567-530b6a7c6058
+Leal Martins e Filhos,38.72706,-9.24671,PT,Lisboa,true,9ed000f4-063b-463a-90cc-30c9a4b7c85c
+Paiva S.A.,38.72706,-9.24671,PT,Coimbra,true,3846a275-7ea2-4fde-91e3-0a0b12d96cab
+Marques,38.72706,-9.24671,PT,Setubal,false,05d2187f-ea95-452a-afa7-3cecadb682e1
+Araújo Lda.,38.72706,-9.24671,PT,Coimbra,true,603107cb-d992-4350-8d8b-4b124eca1500
+Lima Barbosa S.A.,38.72706,-9.24671,PT,Porto,true,7f2179b3-7f5b-479a-9a47-db1ffcf6ec73
+Araújo Lda.,38.72706,-9.24671,PT,Setubal,true,7c1af85a-ab4c-4d6a-a70a-c09a8f3564fd
+Leal Martins e Filhos,38.72706,-9.24671,PT,Porto,true,94e0bc3b-011c-4bbf-88da-cb1c1e859830
+Paiva S.A.,37.74615,-25.66689,PT,Lisboa,true,9e42fa06-d6a2-41b9-bc15-f09155c645ce
+Cunha Lda.,37.74615,-25.66689,PT,Coimbra,true,19d970e9-a8ea-4531-a352-c1ffff528735
+Marques,37.74615,-25.66689,PT,Porto,true,cf5e0bcd-319e-40b9-8147-ddc4ed27c30e
+Leal Martins e Filhos,37.74615,-25.66689,PT,Amadora,true,a468cfe8-7277-4009-a1d6-41b2038046b2
+Torres Abreu Lda.,37.74615,-25.66689,PT,Braga,true,c60b1943-4a35-4657-9072-a1768f2d486a
+Neves Guerreiro e Filhos,37.74615,-25.66689,PT,Queluz,true,4ac85c57-f26a-487a-828f-6676921852dc
+Araújo Lda.,37.74615,-25.66689,PT,Almada,true,4033b58d-3c8e-4d16-a8e5-e29913fa5584
+Marques,37.74615,-25.66689,PT,Lisboa,true,dd8b163d-a46c-4b30-954c-a12919204bee
+Lima Barbosa S.A.,37.74615,-25.66689,PT,Coimbra,true,d1064b7d-c54a-4746-90cf-30d6f71116eb
+Paiva S.A.,37.74615,-25.66689,PT,Almada,true,ee96afa7-5dbf-4dac-ae0c-ebc1c021600b
+Araújo Lda.,37.74615,-25.66689,PT,Amadora,true,0eb9d063-5141-4867-9062-a727e9dc1eec
+Coelho,37.74615,-25.66689,PT,Queluz,true,ab975892-13a9-4621-92e1-170c6bb002af
+Lima Barbosa S.A.,37.74615,-25.66689,PT,Setubal,false,59b4e429-deb4-41cf-ac76-d77d3b064388
+Coelho,37.74615,-25.66689,PT,Funchal,true,8fabc749-3edb-4cb8-85ae-60509a80fb7b
+Marques,37.74615,-25.66689,PT,Coimbra,true,59e19a01-e8ce-4933-a110-552a5308c932
+Lima Barbosa S.A.,37.74615,-25.66689,PT,Almada,true,c27efea4-64eb-495d-a958-168920e3e75c
+Araújo Lda.,37.74615,-25.66689,PT,Lisboa,true,e29efb3a-5c88-4d5d-baee-e5b296f96aae
+Paiva S.A.,37.74615,-25.66689,PT,Funchal,true,6a20ea0c-ca12-4dcd-ac7a-41332fc81a9c
+Rodrigues,37.74615,-25.66689,PT,Almada,true,14fef5f7-6a9f-4da5-8bad-1cc17794c0e6
+Torres Abreu Lda.,37.74615,-25.66689,PT,Queluz,true,e0b0863a-bd4b-47d5-9a35-1f8c67350e9b
+Leal Martins e Filhos,37.74615,-25.66689,PT,Braga,true,ee313bdf-c164-4b20-8587-0fafc53fe575
+Cunha Lda.,37.74615,-25.66689,PT,Queluz,true,e2d876ff-f132-404d-9cc1-753cda8a34d4
+Lima Barbosa S.A.,37.74615,-25.66689,PT,Vila Nova de Gaia,true,2d51f33f-0545-4dd8-add8-2d143d8f24e3
+Araújo Lda.,37.74615,-25.66689,PT,Porto,true,774c2247-6524-43c1-ab7e-ae26d6e01ad2
+Cunha Lda.,37.74615,-25.66689,PT,Amadora,true,79d5661d-8d59-4c6a-8a71-553f6bdb755c
+Cunha Lda.,37.74615,-25.66689,PT,Setubal,true,a2f20b96-6023-432f-8456-1e67d4854d5e
+Phillips Ltd,45.0408,-93.263,US,Chicago,true,08ac0636-8815-4bbf-a6a9-5510d72b7e3d
+Phillips Ltd,42.58342,-71.8023,US,San Francisco,true,6450fef7-3299-4d17-a4a6-55976813f307
+Wilson-Roy,40.81,-73.9625,US,Los Angeles,true,909840b4-62a2-4bbb-a302-4ecdac1a496b
+Tapia-Guerra,33.08014,-83.2321,US,Chicago,true,d6023a19-ace4-420b-a6a6-88bede8f1b14
+"Dean, Davila and Williams",33.08014,-83.2321,US,Las Vegas,true,0a79624f-f292-48de-8145-04cd5d103f60
+Wilson-Roy,47.76232,-122.2054,US,San Francisco,true,d5c22b82-7503-47c1-8585-a0bc5ae387aa
+"Dean, Davila and Williams",38.17492,-122.2608,US,New York,true,9edcc2cb-cd8c-4dac-a0ad-fa4af734a710
+Dyer-Adkins,38.17492,-122.2608,US,Boston,true,49ee0d51-ac31-4e94-849e-00772150bdb9
+Tapia-Guerra,38.17492,-122.2608,US,New York,true,92940b6d-6fd2-46c1-8876-4a017e3bf1b4
+Dyer-Adkins,43.91452,-69.96533,US,Los Angeles,true,b048bbd5-9d75-46e9-90dd-a5ee0cb2f40d
+Hardy PLC,42.35843,-71.05977,US,Las Vegas,true,8d060247-25db-44da-bad9-55f6555ee744
+"Gibson, Davis and Case",42.35843,-71.05977,US,Seattle,true,7f8750c1-8598-43bf-a0cf-ee85e8fadd61
+"Harris, Jenkins and Rowland",41.9001,-71.08977,US,Orlando,true,6b1b56c2-abf9-4026-b0ad-82a537b94b3f
+Tapia-Guerra,41.54566,-71.29144,US,Miami,true,3a71b12a-ba8f-4df8-9077-61fbdb4ea0e5
+"Gibson, Davis and Case",42.93369,-72.27814,US,Chicago,true,c97345c5-a0a2-46ae-bd55-6f55d4112027
+Phillips Ltd,42.93369,-72.27814,US,Seattle,true,9862c31e-60e6-4faa-a306-a4bd6412eeb8
+Hardy PLC,43.61062,-72.97261,US,Orlando,true,678d3272-ffa0-4123-9147-0177c445c552
+Wilson-Roy,41.16704,-73.20483,US,Chicago,true,014f30ca-61a0-4303-a315-c09be236228c
+"Gibson, Davis and Case",40.68066,-73.47429,US,Washington,true,c35984d7-9494-41c6-9d77-6d9869635207
+"Woods, Pugh and Tate",40.68066,-73.47429,US,Seattle,true,aec122a2-8021-4327-ad17-ffe5f224b5dc
+Dyer-Adkins,41.14676,-73.49484,US,San Francisco,true,aa455f5a-cf1f-4653-a971-1d283f62b9b9
+Hardy PLC,40.64621,-73.97069,US,Chicago,true,6eba4d60-62ac-4094-afcf-d95640b5e560
+Hardy PLC,40.94065,-73.99681,US,New York,true,1516ac79-beec-4364-8fab-2fbe67d8546f
+"Tucker, Thompson and Sanchez",40.94065,-73.99681,US,Boston,true,0ccbbc43-55cf-44b6-9f77-c57371c2c122
+"Gibson, Davis and Case",40.82232,-74.15987,US,Las Vegas,true,386a647c-944c-49e9-b166-489052e802b5
+"Tucker, Thompson and Sanchez",40.82232,-74.15987,US,San Francisco,true,1d248dfa-ae73-4c48-a24f-73ca1a736f49
+"Tucker, Thompson and Sanchez",40.5576,-74.28459,US,New York,true,61cd4dd2-fd32-496b-923c-44518c4ce7ac
+Hardy PLC,40.5576,-74.28459,US,Los Angeles,true,4622bf01-d141-4d28-99ab-7a7c5bf3c3f1
+"Woods, Pugh and Tate",40.65538,-74.38987,US,Las Vegas,true,e43275a7-013e-47aa-99a4-bbb39b2d1d14
+"Gibson, Davis and Case",40.65538,-74.38987,US,Miami,true,6845157c-ef14-4e02-8a94-674fe6b49ea1
+Hardy PLC,39.71734,-74.96933,US,San Francisco,true,0216aa8d-67b1-4351-9e80-f86f1eafe30a
+"Gibson, Davis and Case",39.33427,-76.43941,US,New York,true,69e6d954-dc96-44c0-9ed1-b9063e48a48c
+Wilson-Roy,39.33427,-76.43941,US,Orlando,true,25fe51e9-ca4b-4072-9988-b8a1f4e8b5dd
+Dyer-Adkins,39.32011,-76.51552,US,Seattle,true,f8b7ff82-0e64-4c94-917a-2ab5a4fcbdd4
+"Harris, Jenkins and Rowland",38.96372,-76.99081,US,Washington,true,336b6013-b976-4897-8c13-8c649bcefe67
+"Harris, Jenkins and Rowland",43.16547,-77.70066,US,Las Vegas,true,e2d1fbf8-a6c9-4f4a-8068-a3bd3c2cfaae
+Wilson-Roy,25.67927,-80.31727,US,Miami,true,931074ef-b827-41c8-ae90-152f6b57eb23
+"Tucker, Thompson and Sanchez",26.68451,-80.66756,US,Los Angeles,true,c9fcab8b-a149-4e40-b75d-14130896cd74
+Wilson-Roy,41.55838,-81.56929,US,Las Vegas,true,b6a2776d-5e7f-4ed3-97ba-e43b949bd818
+Phillips Ltd,41.55838,-81.56929,US,Boston,true,55da45e6-331d-4b4f-8d06-326aa08329ea
+Dyer-Adkins,41.55838,-81.56929,US,Orlando,true,9fc53fec-3cbb-4ce4-81b4-f2010d8ff145
+Dyer-Adkins,41.55838,-81.56929,US,Miami,true,f1e1d936-7c92-44f2-8ae3-834d83cdc290
+Dyer-Adkins,28.54944,-81.77285,US,New York,true,8f131d9d-a98c-4234-b934-c181f32de016
+"Woods, Pugh and Tate",41.48199,-81.79819,US,Washington,false,ce6a62c1-cdf4-48ae-8f55-d72f2f96334c
+"Harris, Jenkins and Rowland",29.65163,-82.32483,US,Seattle,true,50b8f0f1-00a2-44a8-ab60-4daff61ae0dd
+"Dean, Davila and Williams",29.65163,-82.32483,US,Orlando,false,05c41647-ab57-440e-ac21-2ec11a6fa518
+Hardy PLC,29.65163,-82.32483,US,Boston,true,88d304eb-02fb-4744-974e-57e358cbfae4
+"Dean, Davila and Williams",28.15112,-82.46148,US,Los Angeles,true,8d5d1cc6-b069-46bd-bd57-89db3ab3d3bc
+"Dean, Davila and Williams",28.15112,-82.46148,US,Boston,true,432953c7-b3e6-4437-9a98-4e3624e71aa4
+"Dean, Davila and Williams",32.54044,-82.90375,US,Miami,true,952b7821-ad3f-4183-ac46-22daac02926c
+Phillips Ltd,41.66394,-83.55521,US,Los Angeles,true,48acb865-8f83-45dd-ba6a-28fbcfc75fd9
+Tapia-Guerra,39.43534,-84.20299,US,Seattle,true,dbfcc82b-6df9-4870-a663-4321f0a14f25
+Wilson-Roy,33.54428,-84.23381,US,New York,true,2e313f52-fcf4-4601-9f1b-9feca944f012
+"Dean, Davila and Williams",34.06635,-84.67837,US,Seattle,true,98620c39-0222-47bf-8274-ff89e6c2d397
+"Gibson, Davis and Case",41.75338,-86.11084,US,Orlando,true,b4ef7e3c-2f81-400f-affb-9803e57693bb
+Dyer-Adkins,41.75338,-86.11084,US,Washington,true,ed9c6d84-3ef6-42a2-89f6-082df5e98224
+"Harris, Jenkins and Rowland",33.45122,-86.99666,US,Chicago,true,71d8c7dc-2992-4b6b-a40a-c470d89d2b15
+Wilson-Roy,41.8542,-87.66561,US,Boston,true,e3ea1781-4cf6-493f-8b7d-a652d1241ce3
+"Woods, Pugh and Tate",41.8542,-87.66561,US,Chicago,true,6939e858-e70a-4ada-a7a7-d1dac36f4689
+Wilson-Roy,41.72059,-87.70172,US,Seattle,true,dd160214-8c34-4327-8427-d886207d6454
+Tapia-Guerra,41.72059,-87.70172,US,Washington,true,55f3f28a-9dd5-439f-89eb-430bfa058f90
+"Harris, Jenkins and Rowland",44.27804,-88.27205,US,Los Angeles,true,ec0a1977-aa96-445a-bd85-e07f16f352e8
+"Woods, Pugh and Tate",36.61033,-88.31476,US,New York,true,90f46e6e-2dbc-4c35-9654-1319a24fe846
+"Woods, Pugh and Tate",42.16808,-88.42814,US,San Francisco,true,2b87ee67-de7a-495c-a901-095a0b0cb008
+Tapia-Guerra,34.25807,-88.70464,US,Orlando,true,098ded3c-6ee7-45e0-a41e-53aba7474327
+"Harris, Jenkins and Rowland",40.56754,-89.64066,US,Miami,true,265d7f8b-0a1d-4986-8f30-56d35b086e63
+"Tucker, Thompson and Sanchez",38.58894,-89.99038,US,Las Vegas,true,f437d062-867f-47d5-b9d6-dc3ff3085523
+"Woods, Pugh and Tate",29.84576,-90.10674,US,Orlando,true,db39fb85-2e8a-46fc-be0a-88c09e1f6ccd
+Hardy PLC,33.41012,-91.06177,US,Washington,true,62435807-a156-4f66-9ee5-8280f8e55a37
+Phillips Ltd,41.6764,-91.58045,US,Orlando,true,a87ebc5b-9a30-43bc-893d-5dcd3589d03c
+"Gibson, Davis and Case",35.25064,-91.73625,US,San Francisco,true,e7b65904-f86f-4994-a151-b59af031c89b
+Hardy PLC,45.16024,-93.08883,US,Seattle,true,c5ec86ee-85d2-48d7-afcf-48192f05b5a4
+"Gibson, Davis and Case",45.16024,-93.08883,US,Los Angeles,true,5f73e732-1eb0-466e-bfa3-fce12d67f921
+"Tucker, Thompson and Sanchez",41.57721,-93.71133,US,Washington,true,7e3ce5f4-05cb-4f3e-bf5c-eb47a854822f
+Phillips Ltd,39.09112,-94.41551,US,Washington,true,6832cfa0-4546-49c1-966e-d151c616e513
+"Tucker, Thompson and Sanchez",31.12406,-97.90308,US,Chicago,true,6ef8b83f-d100-4b5e-a9f6-77912b2e3117
+"Tucker, Thompson and Sanchez",26.18924,-98.15529,US,Orlando,true,463b0c8c-0041-4d96-a4e7-3ac095a6f44b
+Wilson-Roy,31.84568,-102.36764,US,Washington,true,ca6fa243-e0f7-412b-9d43-ef9e8d2af98b
+"Harris, Jenkins and Rowland",32.42067,-104.22884,US,New York,false,ccc7f4dc-92c5-4f83-b4c3-3ac6bb47789e
+"Tucker, Thompson and Sanchez",33.35283,-111.78903,US,Miami,true,aa4a1ba3-2208-4eb1-9004-591ce8550623
+Tapia-Guerra,40.34912,-111.90466,US,San Francisco,true,a575893e-05de-44ea-aedc-292f6ae17433
+"Harris, Jenkins and Rowland",43.54072,-116.56346,US,Boston,true,a679b656-9b55-438b-bcce-06ca9321a86b
+"Dean, Davila and Williams",32.9156,-117.14392,US,Chicago,true,55cfe56c-8a1e-4539-8c0f-dcb954d5b31f
+"Harris, Jenkins and Rowland",47.64995,-117.23991,US,San Francisco,true,d1c067f5-76f3-4e27-96c9-d0cde49c255d
+"Dean, Davila and Williams",47.64995,-117.23991,US,Washington,true,96e0501e-c722-4cf2-8cb4-a1b1cf66aeb4
+Phillips Ltd,34.09668,-117.71978,US,New York,true,5ac2692f-a8e4-446b-8dde-da61af049ddc
+"Dean, Davila and Williams",34.09668,-117.71978,US,San Francisco,true,7eed8945-33f3-4830-8d75-3bc4f32d655e
+"Tucker, Thompson and Sanchez",34.09611,-118.10583,US,Seattle,true,6e4b00b7-4888-47b3-a046-2d31f9b372b6
+Tapia-Guerra,37.73604,-120.93549,US,Las Vegas,true,4b2864e6-fd37-4875-bfe0-443ae45e4988
+"Gibson, Davis and Case",38.54491,-121.74052,US,Boston,true,559ee623-e499-4827-9d73-3e54086bf01e
+Phillips Ltd,36.91023,-121.75689,US,Miami,true,f3720b76-9694-443f-9ef4-37030161df8f
+Dyer-Adkins,47.38093,-122.23484,US,Las Vegas,true,d4ae7b14-c0c6-465b-aa68-4ef249677562
+"Woods, Pugh and Tate",47.38093,-122.23484,US,Boston,true,95a7a67e-c58d-43bb-8ef9-1e0facd5b8e4
+"Woods, Pugh and Tate",47.80527,-122.24064,US,Los Angeles,true,789668f4-7030-44ab-8e0b-d7462c71717d
+Tapia-Guerra,37.71715,-122.40433,US,Los Angeles,true,e35fa215-88de-427f-b9d4-faa7e102236a
+"Woods, Pugh and Tate",45.49428,-122.86705,US,Miami,false,ba664f56-4ddd-4225-bfb0-dc963f927d73
+Tapia-Guerra,45.49428,-122.86705,US,Boston,true,dc38e9c2-11a1-4fc9-b418-e086fe717cf6
+Dyer-Adkins,45.49428,-122.86705,US,Chicago,true,28e4213a-03d4-48ab-9c65-0ed96806275c
+Hardy PLC,45.49428,-122.86705,US,Miami,true,9c9cd505-1d29-421e-b7fa-967bb9668838
+Phillips Ltd,44.99012,-123.02621,US,Las Vegas,true,5c479069-d5e1-44c6-9937-0ce4fa05fb8a
