@@ -1,0 +1,44 @@
+models:
+  - name: fct_stores
+    description: "Table storing data related to stores Bounce has partnerships with"
+    columns:
+      - name: name
+        description: Name of the store
+        data_type: text
+        tests:
+          - not_null
+      - name: latitude
+        description: Latitude
+        data_type: double precision
+        tests:
+          - not_null
+      - name: longitude
+        description: Longitude
+        data_type: double precision
+        tests:
+          - not_null
+      - name: country
+        description: Store's contry
+        data_type: text
+        tests:
+          - not_null
+      - name: city
+        description: Store's city
+        data_type: text
+        tests:
+          - not_null
+      - name: active
+        description: Flag for active / inactive stores
+        data_type: boolean
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - "false"
+                - "true"
+      - name: id
+        description: Unique store identifier
+        data_type: text
+        tests:
+          - unique
+          - not_null

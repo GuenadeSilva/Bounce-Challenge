@@ -1,0 +1,52 @@
+models:
+  - name: fct_customers
+    description: "Table storing customer data"
+    columns:
+      - name: username
+        description: Customer user name
+        data_type: text
+        tests:
+          - not_null
+          - unique
+      - name: email
+        description: Customer email
+        data_type: text
+        tests:
+          - not_null
+      - name: name
+        description: ""
+        data_type: text
+        tests:
+          - not_null
+      - name: gender
+        description: ""
+        data_type: text
+        tests:
+          - accepted_values:
+              values:
+                - M
+                - F
+          - not_null
+      - name: password
+        description: ""
+        data_type: text
+      - name: phone_number
+        description: ""
+        data_type: text
+        tests:
+          - not_null
+      - name: id
+        description: ""
+        data_type: text
+        tests:
+          - not_null
+          - unique
+      - name: celebrity_flg
+        description: ""
+        data_type: boolean
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - "false"
+                - "true"
