@@ -1,0 +1,113 @@
+models:
+  - name: int_orders
+    description: ""
+    columns:
+      - name: id
+        description: ""
+        data_type: text
+        tests:
+          - not_null
+          - unique
+      - name: type
+        description: ""
+        data_type: text
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - luggage_storage
+      - name: order_ts
+        description: ""
+        data_type: timestamp with time zone
+        tests:
+          - not_null
+      - name: bags
+        description: ""
+        data_type: integer
+        tests:
+          - not_null
+      - name: order_checkout_ts
+        description: ""
+        data_type: timestamp with time zone
+        tests:
+          - not_null
+      - name: local_amount
+        description: ""
+        data_type: numeric
+        tests:
+          - not_null
+      - name: local_currency
+        description: ""
+        data_type: text
+        tests:
+          - not_null
+      - name: usd_amount
+        description: ""
+        data_type: numeric
+        tests:
+          - not_null
+      - name: cancelled
+        description: ""
+        data_type: boolean
+        tests:
+          - accepted_values:
+              values:
+                - "false"
+                - "true"
+          - not_null
+      - name: payment
+        description: ""
+        data_type: json
+      - name: customer_support
+        description: ""
+        data_type: json
+      - name: utm_source
+        description: ""
+        data_type: text
+        tests:
+          - accepted_values:
+              values:
+                - yahoo
+                - kakao
+                - baidu
+                - tiktok
+                - bing
+                - google
+                - reddit
+                - facebook
+                - duckduckgo
+                - instagram
+                - telegram
+                - quora
+                - yelp
+                - skype
+                - tumblr
+                - linkedin
+                - twitter
+                - viber
+                - twitch
+                - whatsapp
+                - wechat
+                - line
+                - daum
+                - flickr
+                - pinterest
+                - yandex
+                - snapchat
+                - naver
+                - discord
+          - not_null
+      - name: utm_medium
+        description: ""
+        data_type: text
+        tests:
+          - accepted_values:
+              values:
+                - promoted
+                - organic
+                - cpc
+                - referral
+          - not_null
+      - name: utm_campaign
+        description: ""
+        data_type: text

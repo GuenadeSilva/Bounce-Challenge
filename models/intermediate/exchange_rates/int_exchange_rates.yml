@@ -1,0 +1,22 @@
+models:
+  - name: int_exchange_rates
+    description: "Table of exchange rates"
+    columns:
+      - name: currency
+        description: Currency being compared to
+        data_type: text
+        tests:
+          - accepted_values:
+              values:
+                - CAD
+                - EUR
+                - JPY
+          - not_null
+          - unique
+          - row_count:
+              equal: 3
+      - name: rate
+        description: Exchange rate of the currency compared with USD
+        data_type: double precision
+        tests:
+          - not_null
