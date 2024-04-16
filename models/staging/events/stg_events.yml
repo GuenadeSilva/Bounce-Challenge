@@ -1,0 +1,76 @@
+models:
+  - name: stg_events
+    description: Table that stores users events
+    columns:
+      - name: order_id
+        description: Order Unique Identifier
+        data_type: text
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              field: id
+              to: ref('stg_orders')
+      - name: user_agent
+        description: HTTP header intended to identify the user agent responsible for
+          making a given HTTP request
+        data_type: text
+        tests:
+          - not_null
+      - name: utm_source
+        description: parameter to identify the source of your traffic. This could be a
+          website name, search engine, newsletter name, or social network.
+        data_type: text
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - yahoo
+                - kakao
+                - baidu
+                - tiktok
+                - bing
+                - google
+                - facebook
+                - reddit
+                - duckduckgo
+                - instagram
+                - telegram
+                - quora
+                - yelp
+                - skype
+                - tumblr
+                - linkedin
+                - twitter
+                - viber
+                - twitch
+                - whatsapp
+                - wechat
+                - line
+                - daum
+                - flickr
+                - yandex
+                - pinterest
+                - snapchat
+                - naver
+                - discord
+      - name: utm_medium
+        description: parameter to identify the medium used to share and access your
+          link. This could be email, social, cost per click (cpc), or another
+          method.
+        data_type: text
+        tests:
+          - accepted_values:
+              values:
+                - promoted
+                - organic
+                - cpc
+                - referral
+          - not_null
+      - name: utm_campaign
+        description: " parameter to identify a campaign or promotion tied to your link.
+          This could be a product name, type of sale, contest name, etc."
+        data_type: text
+      - name: id
+        description: Event Unique Identifier
+        data_type: text

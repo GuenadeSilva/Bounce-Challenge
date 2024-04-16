@@ -1,0 +1,57 @@
+models:
+  - name: stg_orders
+    description: "Table of orders and respective information like date and time, amounts, and description"
+    columns:
+      - name: id
+        description: "Order unique identifier"
+        data_type: text
+        tests:
+          - not_null
+          - unique
+      - name: type
+        description: "Type of service associated with the order"
+        data_type: text
+      - name: order_ts
+        description: "Order timestamp"
+        data_type: timestamp with time zone
+        tests:
+          - not_null
+      - name: bags
+        description: "Amount of bags associated with the order"
+        data_type: integer
+        tests:
+          - not_null
+      - name: order_checkout_ts
+        description: "Order checkout timestamp"
+        data_type: timestamp with time zone
+        tests:
+          - not_null
+      - name: amount
+        description: "Amount of the order"
+        data_type: double precision
+        tests:
+          - not_null
+      - name: currency
+        description: "Currency of the order"
+        data_type: text
+        tests:
+          - accepted_values:
+              values:
+                - EUR
+                - JPY
+                - USD
+          - not_null
+      - name: cancelled
+        description: "Boolean column highlighting if the order was cancelled or not"
+        data_type: boolean
+        tests:
+          - accepted_values:
+              values:
+                - "false"
+                - "true"
+      - name: payment
+        description: "JSON column storing information about the payment"
+        data_type: json
+      - name: customer_support
+        description: "JSON column storing information about the customer support associated with the order"
+        data_type: json

@@ -1,0 +1,37 @@
+models:
+  - name: stg_exchange_rates
+    description: ""
+    columns:
+      - name: date
+        description: Date of the curreny in fomrmat "YYYY-MM-DD"
+        data_type: character varying
+        tests:
+          - not_null
+          - unique
+      - name: aud_to_usd
+        description: Exchange Rate in AUD
+        data_type: double precision
+      - name: eur_to_usd
+        description: Exchange Rate in EUR
+        data_type: double precision
+      - name: nzd_to_usd
+        description: Exchange Rate in NZD
+        data_type: double precision
+      - name: gbp_to_usd
+        description: Exchange Rate in GBP
+        data_type: double precision
+      - name: brl_to_usd
+        description: Exchange Rate in BRL
+        data_type: double precision
+      - name: cad_to_usd
+        description: Exchange Rate in CAD
+        data_type: double precision
+      - name: jpy_to_usd
+        description: Exchange Rate in JPY
+        data_type: double precision
+      - name: kro_to_usd
+        description: Exchange Rate in KRO
+        data_type: double precision
+      - name: chf_to_usd
+        description: Exchange Rate in CHF
+        data_type: double precision
