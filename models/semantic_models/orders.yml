@@ -1,0 +1,34 @@
+semantic_models:
+  - name: orders
+    description: |
+      A model containing order data from the fct_orders table, focusing on non-cancelled orders.
+    model: ref('fct_orders')
+    defaults:
+      agg_time_dimension: metric_time
+    entities:
+      - name: order_id
+        type: primary
+        expr: id
+
+    dimensions:
+      - name: metric_time
+        expr: order_ts
+        type: time
+        type_params:
+          time_granularity: day
+      - name: acquisition_channel
+        type: categorical
+        expr: utm_medium
+    measures:
+      - name: gmv
+        description: Gross Merchandise Value (for non-cancelled orders)
+        agg: sum
+        expr: usd_amount # This should be orders that were not cancelled
+      - name: cancelled_orders
+        description: Number of Cancelled Orders # This should be orders that were cancelled as in cancelled = true
+        agg: count
+        expr: cancelled
+      - name: total_orders
+        description: Total Number of Orders
+        agg: count
+        expr: id
