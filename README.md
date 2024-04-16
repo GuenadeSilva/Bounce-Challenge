@@ -74,7 +74,8 @@ I have not found connection points between the orders and the partner stores as 
 
 I didn't have time to finish the Semantic Layer properly but manage to get the fields with the data models built.
 
-The branch name is `guenade`
+The branch name is `guenade` .
+I have learned using DBT core over the weekend so testing could be better.
 
 ### Model
 
