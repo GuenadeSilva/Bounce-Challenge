@@ -1,0 +1,61 @@
+models:
+  - name: customer_support
+    description: "Table of customer support related data"
+    columns:
+      - name: ticket_id
+        description: Unique Customer Support Ticket Identifier
+        data_type: text
+        tests:
+          - not_null
+          - unique
+      - name: create_ts
+        description: Ticket create timestamp
+        data_type: timestamp with time zone
+        tests:
+          - not_null
+      - name: resolution_status
+        description: Ticket status
+        data_type: text
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - Resolved
+                - Pending
+                - Closed
+      - name: agent_name
+        description: ""
+        data_type: text
+        tests:
+          - not_null
+      - name: order_id
+        description: Unique Order Identifier
+        data_type: text
+        tests:
+          - not_null
+          - relationships:
+              field: id
+              to: ref('int_orders')
+      - name: usd_amount
+        description: Amount of the order in USD
+        data_type: numeric
+      - name: order_ts
+        description: Order Timestamp
+        data_type: timestamp with time zone
+      - name: customer_name
+        description: Customer Name
+        data_type: text
+      - name: celebrity_flg
+        description:
+          Boolean column highlighting if the customer is known and should be
+          addressed with urgency
+        data_type: boolean
+        tests:
+          - accepted_values:
+              values:
+                - "false"
+                - "true"
+          - not_null
+      - name: issue_description
+        description: Description of why the customer submitted the ticket
+        data_type: text
